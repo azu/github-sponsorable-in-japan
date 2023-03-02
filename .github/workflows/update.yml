@@ -22,6 +22,8 @@ jobs:
         run: npm ci
       - name: Update Resources
         run: npm run update:resources && npm run update:readme
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit Changes
         uses: EndBug/add-and-commit@v7
         with:
