@@ -9,8 +9,7 @@ const __dirname = path.dirname(__filename);
 const datadir = path.join(__dirname, "../data");
 const resultJSON: UserNode[] = JSON.parse(await fs.readFile(path.join(datadir, "results.json"), "utf-8"));
 const escapeTable = (text?: string) => text ? text.replace(/\|/g, "｜").replace(/\r?\n/g, " ") : "";
-const persons = resultJSON.filter(person => {
-}).map((person) => {
+const persons = resultJSON.map((person) => {
     const firstPin = person.pinnedItems?.edges?.[0]?.node ?? {};
     const firstItem = firstPin.url ? mdLink({
         text: firstPin.name ?? "",
