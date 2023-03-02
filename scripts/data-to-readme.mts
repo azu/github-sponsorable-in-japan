@@ -13,7 +13,7 @@ const isAccount = (person: UserNode) => person.login !== undefined;
 const persons = resultJSON.filter(isAccount).map((person) => {
     const firstPin = person.pinnedItems?.edges?.[0]?.node ?? {};
     const firstItem = firstPin.url ? mdLink({
-        text: firstPin.name ?? "",
+        text: firstPin.name ?? person.login ?? "",
         url: firstPin.url
     }) : "<!-- no item -->"
     const firstItemDescription = firstPin.description ? mdEscape(firstPin.description ?? "") : "<!-- no description -->"
