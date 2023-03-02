@@ -17,7 +17,7 @@ const persons = resultJSON.map((person) => {
     }) : "<!-- no item -->"
     const firstItemDescription = firstPin.description ? mdEscape(firstPin.description ?? "") : "<!-- no description -->"
     return `## ${mdLink({
-        text: `${person.name} (@${person.login})`,
+        text: `${person.name}`,
         url: person.url,
     })}
     
