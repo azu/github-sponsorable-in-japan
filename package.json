@@ -1,0 +1,30 @@
+{
+  "name": "github-sponsorable-in-japan",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "update:resources": "ts-node-esm ./scripts/search-github-sponsorable-in-japan.mts",
+    "update:readme": "ts-node-esm ./scripts/data-to-readme.mts"
+  },
+  "dependencies": {
+    "@types/node": "18.14.4",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "eslint": "8.35.0",
+    "eslint-config-next": "13.2.3",
+    "next": "13.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "4.9.5"
+  },
+  "devDependencies": {
+    "@octokit/core": "^4.2.0",
+    "@octokit/plugin-paginate-graphql": "^2.0.1",
+    "markdown-function": "^2.0.0",
+    "ts-node": "^10.9.1"
+  }
+}
