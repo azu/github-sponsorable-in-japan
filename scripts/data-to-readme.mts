@@ -20,7 +20,7 @@ const persons = resultJSON.map((person) => {
     
 | <!-- Img --> | <!-- bio --> |
 | --- | --- |
-| <img src="${person.avatarUrl}" alt="" width="40" height="40"/> | ${mdEscape(escapeTable(person.bio ?? ""))} |
+| <img src="${person.avatarUrl}" alt="" width="40" /> | ${mdEscape(escapeTable(person.bio ?? ""))} |
 | ${escapeTable(firstItem)} | ${escapeTable(firstItemDescription)} |
 
     `
