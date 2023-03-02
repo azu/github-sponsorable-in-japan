@@ -11,8 +11,8 @@ const resultJSON: UserNode[] = JSON.parse(await fs.readFile(path.join(datadir, "
 const escapeTable = (text: string) => text.replace(/\|/g, "｜");
 const persons = resultJSON.map((person) => {
     const firstPin = person.pinnedItems?.edges?.[0]?.node ?? {};
-    const firstItem = firstPin.name && firstPin.url ? mdLink({ text: firstPin.name, url: firstPin.url }) : "";
-    const firstItemDescription = firstPin.description ? mdEscape(firstPin.description ?? "") : "";
+    const firstItem = firstPin.name && firstPin.url ? mdLink({ text: firstPin.name, url: firstPin.url }) : "<!-- no item -->"
+    const firstItemDescription = firstPin.description ? mdEscape(firstPin.description ?? "") : "<!-- no description -->"
     return `## ${mdLink({
         text: `${person.name} (@${person.login})`,
         url: person.url,
