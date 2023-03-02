@@ -22,7 +22,7 @@ const persons = resultJSON.filter(isAccount).map((person) => {
         url: person.url,
     })}
     
-| ${mdLink({ text: `@${person.login}`, url: person.url })} | <!-- bio --> |
+| ${mdLink({ text: `@${person.login}`, url: person.url })} | [❤️Sponsors](https://github.com/sponsors/${person.login}) |
 | --- | --- |
 | <img src="${person.avatarUrl}" alt="" width="40" /> | ${escapeTable(mdEscape(person.bio ?? ""))} |
 | ${escapeTable(firstItem)} | ${escapeTable(firstItemDescription)} |
