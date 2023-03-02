@@ -3823,15 +3823,6 @@
 
     
 
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Dominik Nakamura](https://github.com/dnaka91)
     
 | [@dnaka91](https://github.com/dnaka91) | <!-- bio --> |
@@ -4678,15 +4669,6 @@
 
     
 
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [KATOH Yasufumi](https://github.com/tenforward)
     
 | [@tenforward](https://github.com/tenforward) | <!-- bio --> |
@@ -5191,15 +5173,6 @@
 
     
 
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [takanishi](https://github.com/t0m0120)
     
 | [@t0m0120](https://github.com/t0m0120) | <!-- bio --> |
@@ -5403,15 +5376,6 @@
 | [@keigohtr](https://github.com/keigohtr) | <!-- bio --> |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/17162407?u=2eff38652157f0dc99812fdd43d9377977c96e37&v=4" alt="" width="40" /> | Engineering Manager \/ Senior Software Engineer \/  MLOps enthusiast \/ @rekcurd and @apitore owner |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
 | <!-- no item --> | <!-- no description --> |
 
     
@@ -5722,15 +5686,6 @@
 
     
 
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Karibash](https://github.com/Karibash)
     
 | [@Karibash](https://github.com/Karibash) | <!-- bio --> |
@@ -5926,15 +5881,6 @@
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/20423320?v=4" alt="" width="40" /> |  |
 | [lambda-friends](https://github.com/nikosai/lambda-friends) | Web上で動作するラムダ計算のインタプリタ「らむだフレンズ」 |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -6262,15 +6208,6 @@
 
     
 
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Kazuki Naruse](https://github.com/Naruuuse)
     
 | [@Naruuuse](https://github.com/Naruuuse) | <!-- bio --> |
@@ -6286,15 +6223,6 @@
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/21127627?u=f55abcc6532dae27913283d080c7333f096aad5c&v=4" alt="" width="40" /> |  |
 | [vscode-advanced-open-file](https://github.com/ytakhs/vscode-advanced-open-file) | VSCode extension for helping to open or create file. |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -6622,15 +6550,6 @@
 
     
 
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [](https://github.com/taqueci)
     
 | [@taqueci](https://github.com/taqueci) | <!-- bio --> |
@@ -6730,15 +6649,6 @@
 
     
 
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Hayato Takenaka](https://github.com/urin)
     
 | [@urin](https://github.com/urin) | <!-- bio --> |
@@ -6766,39 +6676,12 @@
 
     
 
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Ligun](https://github.com/ligun)
     
 | [@ligun](https://github.com/ligun) | <!-- bio --> |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/2811768?v=4" alt="" width="40" /> | Software developer |
 | [groovycure](https://github.com/ligun/groovycure) | Pretty Cure |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -6853,15 +6736,6 @@
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/37135886?u=dac68bc99eed16d68b1d310f241b0aff41b016dd&v=4" alt="" width="40" /> | Medical Doctor \(Resident\) in Tokyo, Japan. Main Interests: Bioinformatics, Oncology, and Dermatology |
 | [Viola-SV](https://github.com/dermasugita/Viola-SV) | Viola is a flexible and powerful python package designed specifically for analysis of genomic structural variant \(SV\) signatures. |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -6955,15 +6829,6 @@
 
     
 
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [soudegesu](https://github.com/soudegesu)
     
 | [@soudegesu](https://github.com/soudegesu) | <!-- bio --> |
@@ -6982,39 +6847,12 @@
 
     
 
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Z.OOL.](https://github.com/z80oolong)
     
 | [@z80oolong](https://github.com/z80oolong) | <!-- bio --> |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/5362529?u=b236ec4e7e9be2c260c31ff7dac3920062f427bc&v=4" alt="" width="40" /> | こちらは、 Ｚ．ＯＯＬ．ネット信託統治領 Github 環礁です。 |
 | [tmux-eaw-fix](https://github.com/z80oolong/tmux-eaw-fix) | tmux 2.6 以降において East Asian Ambiguous Character を全角文字の幅で表示する |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -7072,33 +6910,6 @@
 
     
 
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [](https://github.com/monaka496)
     
 | [@monaka496](https://github.com/monaka496) | <!-- bio --> |
@@ -7126,24 +6937,6 @@
 
     
 
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [SATO Masatoshi](https://github.com/okomeki)
     
 | [@okomeki](https://github.com/okomeki) | <!-- bio --> |
@@ -7153,56 +6946,11 @@
 
     
 
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Yoshihide Shirai](https://github.com/YoshihideShirai)
     
 | [@YoshihideShirai](https://github.com/YoshihideShirai) | <!-- bio --> |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/19510962?u=f7f6e293e1f5dab34d7b9f1533b8d0f42e534723&v=4" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
 | <!-- no item --> | <!-- no description --> |
 
     
@@ -7225,39 +6973,12 @@
 
     
 
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Kaoru Sasahara](https://github.com/ksasahara1)
     
 | [@ksasahara1](https://github.com/ksasahara1) | <!-- bio --> |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/40233156?u=f05ac66302cc0fa9e245204db68cf86785eff9fd&v=4" alt="" width="40" /> | 3D modeling, 3D printer, Video Maker |
 | [TV-Q](https://github.com/ksasahara1/TV-Q) | TV-Q project |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -7288,15 +7009,6 @@
 
     
 
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [nyannmaru](https://github.com/nyannmaru)
     
 | [@nyannmaru](https://github.com/nyannmaru) | <!-- bio --> |
@@ -7320,15 +7032,6 @@
 | [@sinproject-iwasaki](https://github.com/sinproject-iwasaki) | <!-- bio --> |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/70736447?u=08dd94aff9058ad9c6bfafac50762a330e81f484&v=4" alt="" width="40" /> | 株式会社 \#sinProject CEO\/CTO 世界を幸せにするアプリを作る  Twitterアプリ1位 \#Tweecha2 企画制作 システム設計開発、ITコンサルタント、\#sinPro式学習 \#Svelte \#TypeScript \#Flutter \#Dart \#Java \#kimurakan ピアノ |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
-## [](undefined)
-    
-| [@undefined](undefined) | <!-- bio --> |
-| --- | --- |
-| <img src="undefined" alt="" width="40" /> |  |
 | <!-- no item --> | <!-- no description --> |
 
     
