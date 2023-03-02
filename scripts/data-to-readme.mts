@@ -33,8 +33,10 @@ const persons = resultJSON.filter(isAccount).map((person) => {
 
 const OUTPUT = `# GitHub Sponsor-able Users in Japan
 
+This repository is a list of GitHub users who are living in Japan and are sponsor-able.
+
 - Total: ${resultJSON.length}
-- Search: <https://github.com/search?q=location%3AJapan++is%3Asponsorable&type=users&ref=simplesearch>
+- Search Results: <https://github.com/search?q=location%3AJapan++is%3Asponsorable&type=users&ref=simplesearch>
 
 ----
 
