@@ -8,7 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const datadir = path.join(__dirname, "../data");
 const resultJSON: UserNode[] = JSON.parse(await fs.readFile(path.join(datadir, "results.json"), "utf-8"));
-const escapeTable = (text: string) => text.replace(/\|/g, "｜");
+const escapeTable = (text: string) => text.replace(/\|/g, "｜").replace(/\n/g, " ");
 const persons = resultJSON.map((person) => {
     const firstPin = person.pinnedItems?.edges?.[0]?.node ?? {};
     const firstItem = firstPin.name && firstPin.url ? mdLink({ text: firstPin.name, url: firstPin.url }) : "<!-- no item -->"
