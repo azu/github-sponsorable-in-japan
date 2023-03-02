@@ -64,7 +64,7 @@ const query = `query paginate($cursor: String) {
 
 const results: UserNode[] = [];
 for await (const result of octokit.graphql.paginate.iterator(query)) {
-    results.push(...result.search.nodes);
+    results.push(...result.search.nodes.filter((node: UserNode) => node.login !== undefined));
     console.log(`results: ${results.length}/${result.search.userCount}`);
 }
 const __filename = fileURLToPath(import.meta.url);
