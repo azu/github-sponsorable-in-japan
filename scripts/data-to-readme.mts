@@ -31,5 +31,16 @@ const persons = resultJSON.filter(isAccount).map((person) => {
 
 }).join("\n\n");
 
+const OUTPUT = `# GitHub Sponsor-able Users in Japan
+
+- Total: ${resultJSON.length}
+- Search: <https://github.com/search?q=location%3AJapan++is%3Asponsorable&type=users&ref=simplesearch>
+
+----
+
+${persons}
+
+}
+`
 const README_FILE = path.join(__dirname, "../README.md");
-await fs.writeFile(README_FILE, persons);
+await fs.writeFile(README_FILE, OUTPUT);

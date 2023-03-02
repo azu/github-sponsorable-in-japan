@@ -1,3 +1,10 @@
+# GitHub Sponsor-able Users in Japan
+
+- Total: 819
+- Search: <https://github.com/search?q=location%3AJapan++is%3Asponsorable&type=users&ref=simplesearch>
+
+----
+
 ## [Wei Wang](https://github.com/onevcat)
     
 | [@onevcat](https://github.com/onevcat) | <!-- bio --> |
@@ -7071,3 +7078,5 @@
 | <!-- no item --> | <!-- no description --> |
 
     
+
+}
