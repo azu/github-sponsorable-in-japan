@@ -64,6 +64,8 @@ const query = `query paginate($cursor: String) {
 
 const results: UserNode[] = [];
 for await (const result of octokit.graphql.paginate.iterator(query)) {
+    // TODO: support "Optional: Opt-in to get featured on github.com/sponsors"
+    // TODO: support opt-out users
     results.push(...result.search.nodes.filter((node: UserNode) => node.login !== undefined));
     console.log(`results: ${results.length}/${result.search.userCount}`);
 }
