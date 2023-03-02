@@ -42,7 +42,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
 ${persons}
 
-}
 `
 const README_FILE = path.join(__dirname, "../README.md");
 await fs.writeFile(README_FILE, OUTPUT);

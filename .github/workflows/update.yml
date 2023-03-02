@@ -1,0 +1,31 @@
+name: Update
+on:
+  workflow_dispatch:
+  schedule:
+    # daily
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    name: Update Resources
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - name: Install Dependencies
+        run: npm ci
+      - name: Update Resources
+        run: npm run update:resources && npm run update:readme
+      - name: Commit Changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: ${{ github.actor }}
+          author_email: ${{ github.actor }}@users.noreply.github.com
+          message: 'docs: update resources'
+          add: '.'
