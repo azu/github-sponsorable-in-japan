@@ -493,21 +493,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [lestrrat](https://github.com/lestrrat)
-    
-| [@lestrrat](https://github.com/lestrrat) | [❤️Sponsor](https://github.com/sponsors/lestrrat) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/49281?u=fbea0ee7ed496f0e69d7e521244357616b234a38&v=4" alt="" width="40" /> | DevRel\/Tech Event orga. @peco maintainer. Projects → Go: @lestrrat-go, Perl5: @lestrrat-p5, Perl6: @lestrrat-p6, dead projects: @lestrrat-morgue |
-| [peco](https://github.com/peco/peco) | Simplistic interactive filtering tool |
-
-    
-
 ## [翠 \/ green](https://github.com/sapphi-red)
     
 | [@sapphi-red](https://github.com/sapphi-red) | [❤️Sponsor](https://github.com/sponsors/sapphi-red) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/49056869?u=ec70859392ec0140d60446f7815ad2bf857904fd&v=4" alt="" width="40" /> | @vitejs core team member |
 | [vite](https://github.com/vitejs/vite) | Next generation frontend tooling. It's fast! |
+
+    
+
+## [lestrrat](https://github.com/lestrrat)
+    
+| [@lestrrat](https://github.com/lestrrat) | [❤️Sponsor](https://github.com/sponsors/lestrrat) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/49281?u=fbea0ee7ed496f0e69d7e521244357616b234a38&v=4" alt="" width="40" /> | DevRel\/Tech Event orga. @peco maintainer. Projects → Go: @lestrrat-go, Perl5: @lestrrat-p5, Perl6: @lestrrat-p6, dead projects: @lestrrat-morgue |
+| [peco](https://github.com/peco/peco) | Simplistic interactive filtering tool |
 
     
 
@@ -772,21 +772,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Takahiro Kubo](https://github.com/icoxfog417)
-    
-| [@icoxfog417](https://github.com/icoxfog417) | [❤️Sponsor](https://github.com/sponsors/icoxfog417) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/544269?u=798cdf2cc1640b25a4a2d608e8b3c508b0e7b71f&v=4" alt="" width="40" /> |  |
-| [arXivTimes](https://github.com/arXivTimes/arXivTimes) | repository to research & share the machine learning articles |
-
-    
-
 ## [Yoshihiro Sugi](https://github.com/sugyan)
     
 | [@sugyan](https://github.com/sugyan) | [❤️Sponsor](https://github.com/sponsors/sugyan) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/80381?v=4" alt="" width="40" /> | 🌲 |
 | [ttyrec2gif](https://github.com/sugyan/ttyrec2gif) | ttyrec to animated GIF |
+
+    
+
+## [Takahiro Kubo](https://github.com/icoxfog417)
+    
+| [@icoxfog417](https://github.com/icoxfog417) | [❤️Sponsor](https://github.com/sponsors/icoxfog417) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/544269?u=798cdf2cc1640b25a4a2d608e8b3c508b0e7b71f&v=4" alt="" width="40" /> |  |
+| [arXivTimes](https://github.com/arXivTimes/arXivTimes) | repository to research & share the machine learning articles |
 
     
 
@@ -1159,21 +1159,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [tsuyoshi wada](https://github.com/wadackel)
-    
-| [@wadackel](https://github.com/wadackel) | [❤️Sponsor](https://github.com/sponsors/wadackel) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/5393238?u=2a14976c5766ee2ce55598a26152c69367356b22&v=4" alt="" width="40" /> |      Web Frontend Developer in Japan. 🐕💨  |
-| [scaffdog](https://github.com/scaffdog/scaffdog) | :dog: scaffdog is Markdown driven scaffolding tool. |
-
-    
-
 ## [Hao Nguyen](https://github.com/haoict)
     
 | [@haoict](https://github.com/haoict) | [❤️Sponsor](https://github.com/sponsors/haoict) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/7247750?v=4" alt="" width="40" /> | he\/him. Software Engineer, Full stack & DevOps |
 | [production-ready-webapp-boilerplate](https://github.com/haoict/production-ready-webapp-boilerplate) | 🚀 A well-structured production ready modern web application boilerplate \(Single Page Application with Server Side Render to boost SEO\). With Next.js, React, Redux, Express.js, Less, Axios, Request Caching, EnvConfig, Storybook, Workbox for PWA and more 🚀 |
+
+    
+
+## [tsuyoshi wada](https://github.com/wadackel)
+    
+| [@wadackel](https://github.com/wadackel) | [❤️Sponsor](https://github.com/sponsors/wadackel) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/5393238?u=2a14976c5766ee2ce55598a26152c69367356b22&v=4" alt="" width="40" /> |      Web Frontend Developer in Japan. 🐕💨  |
+| [scaffdog](https://github.com/scaffdog/scaffdog) | :dog: scaffdog is Markdown driven scaffolding tool. |
 
     
 
@@ -1186,21 +1186,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Takayuki Maeda](https://github.com/TaKO8Ki)
-    
-| [@TaKO8Ki](https://github.com/TaKO8Ki) | [❤️Sponsor](https://github.com/sponsors/TaKO8Ki) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/41065217?u=54ba8f078375dcf0e23a49a5e0716c36f8f89635&v=4" alt="" width="40" /> | Software Engineer? ｜ Member of @rust-lang compiler team contributors |
-| [rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. |
-
-    
-
 ## [Kei Kamikawa](https://github.com/Code-Hex)
     
 | [@Code-Hex](https://github.com/Code-Hex) | [❤️Sponsor](https://github.com/sponsors/Code-Hex) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/6500104?u=c11cdf2671e89749d7d8c01f0d85494cce8d9f84&v=4" alt="" width="40" /> | Okinawapm, Previous: Mercari, Inc. |
 | [vz](https://github.com/Code-Hex/vz) | Create virtual machines and run Linux-based operating systems in Go using Apple Virtualization.framework. |
+
+    
+
+## [Takayuki Maeda](https://github.com/TaKO8Ki)
+    
+| [@TaKO8Ki](https://github.com/TaKO8Ki) | [❤️Sponsor](https://github.com/sponsors/TaKO8Ki) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/41065217?u=54ba8f078375dcf0e23a49a5e0716c36f8f89635&v=4" alt="" width="40" /> | Software Engineer? ｜ Member of @rust-lang compiler team contributors |
+| [rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. |
 
     
 
@@ -1402,15 +1402,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Shirokuma](https://github.com/neka-nat)
-    
-| [@neka-nat](https://github.com/neka-nat) | [❤️Sponsor](https://github.com/sponsors/neka-nat) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/991515?u=ddc531a7af648a4590b51735b5c6d68ec6c0367f&v=4" alt="" width="40" /> | Interested in computer vision \(3D processing, GPU computing\), robotics and AI. |
-| [cupoch](https://github.com/neka-nat/cupoch) | Robotics with GPU computing |
-
-    
-
 ## [Nam Nguyen](https://github.com/eneim)
     
 | [@eneim](https://github.com/eneim) | [❤️Sponsor](https://github.com/sponsors/eneim) |
@@ -1426,6 +1417,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/1356444?v=4" alt="" width="40" /> | Developer \/ Microsoft MVP for Microsoft Azure \/ Windows on Arm Enthusiast |
 | <!-- no item --> | <!-- no description --> |
+
+    
+
+## [Shirokuma](https://github.com/neka-nat)
+    
+| [@neka-nat](https://github.com/neka-nat) | [❤️Sponsor](https://github.com/sponsors/neka-nat) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/991515?u=ddc531a7af648a4590b51735b5c6d68ec6c0367f&v=4" alt="" width="40" /> | Interested in computer vision \(3D processing, GPU computing\), robotics and AI. |
+| [cupoch](https://github.com/neka-nat/cupoch) | Robotics with GPU computing |
 
     
 
@@ -1591,21 +1591,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Shiono Yoshihide](https://github.com/saltyshiomix)
-    
-| [@saltyshiomix](https://github.com/saltyshiomix) | [❤️Sponsor](https://github.com/sponsors/saltyshiomix) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/5608079?u=940e5522454b54ca674ade58a95a4b48ddef9acf&v=4" alt="" width="40" /> | livin' in OSS &lt;3 |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [ktr](https://github.com/ktr0731)
     
 | [@ktr0731](https://github.com/ktr0731) | [❤️Sponsor](https://github.com/sponsors/ktr0731) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/12953836?u=a5314780cc182f7ff320a86d1b236c99254ec2bf&v=4" alt="" width="40" /> | application engineer |
 | [go](https://github.com/golang/go) | The Go programming language |
+
+    
+
+## [Shiono Yoshihide](https://github.com/saltyshiomix)
+    
+| [@saltyshiomix](https://github.com/saltyshiomix) | [❤️Sponsor](https://github.com/sponsors/saltyshiomix) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/5608079?u=940e5522454b54ca674ade58a95a4b48ddef9acf&v=4" alt="" width="40" /> | livin' in OSS &lt;3 |
+| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -1996,21 +1996,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Rintaro Itokawa](https://github.com/re-taro)
-    
-| [@re-taro](https://github.com/re-taro) | [❤️Sponsor](https://github.com/sponsors/re-taro) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/68799469?v=4" alt="" width="40" /> | I'm a student ｜ Web Frontend and Frontend Ops ｜ Geek sometimes developer |
-| [re-taro.dev](https://github.com/re-taro/re-taro.dev) | My personal homepage |
-
-    
-
 ## [sienori](https://github.com/sienori)
     
 | [@sienori](https://github.com/sienori) | [❤️Sponsor](https://github.com/sponsors/sienori) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/29514424?u=12f0b17b4b901f5e0e0467b06a8f99984ecc741f&v=4" alt="" width="40" /> | Software engineer |
 | [Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) | WebExtensions for restoring and saving window \/ tab states |
+
+    
+
+## [Rintaro Itokawa](https://github.com/re-taro)
+    
+| [@re-taro](https://github.com/re-taro) | [❤️Sponsor](https://github.com/sponsors/re-taro) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/68799469?v=4" alt="" width="40" /> | I'm a student ｜ Web Frontend and Frontend Ops ｜ Geek sometimes developer |
+| [re-taro.dev](https://github.com/re-taro/re-taro.dev) | My personal homepage |
 
     
 
@@ -2036,7 +2036,7 @@ This repository is a list of GitHub users who are living in Japan and are sponso
     
 | [@ryohey](https://github.com/ryohey) | [❤️Sponsor](https://github.com/sponsors/ryohey) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/5355966?u=49e8874f129d3c8943bfcec8f2760b3ccd34fbe8&v=4" alt="" width="40" /> | Front-end Developer\/CEO at @covelline |
+| <img src="https://avatars.githubusercontent.com/u/5355966?u=e7de126c6512db94172e7ddc09c4b8db98c9edd2&v=4" alt="" width="40" /> | Front-end Developer\/CEO at @covelline |
 | [signal](https://github.com/ryohey/signal) | Online MIDI Editor: signal |
 
     
@@ -2356,21 +2356,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Yusuke Morishita](https://github.com/yysskk)
-    
-| [@yysskk](https://github.com/yysskk) | [❤️Sponsor](https://github.com/sponsors/yysskk) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/7744927?u=6b8231db7d5008373efdb51dc209186a863a91ed&v=4" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [YAMAMOTO Masaya](https://github.com/pandax381)
     
 | [@pandax381](https://github.com/pandax381) | [❤️Sponsor](https://github.com/sponsors/pandax381) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/1667051?v=4" alt="" width="40" /> | Software Developer |
 | [microps](https://github.com/pandax381/microps) | An implementation of a small TCP\/IP protocol stack for learning. |
+
+    
+
+## [Yusuke Morishita](https://github.com/yysskk)
+    
+| [@yysskk](https://github.com/yysskk) | [❤️Sponsor](https://github.com/sponsors/yysskk) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/7744927?u=6b8231db7d5008373efdb51dc209186a863a91ed&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -2482,21 +2482,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Kotaro Sugawara](https://github.com/kotarella1110)
-    
-| [@kotarella1110](https://github.com/kotarella1110) | [❤️Sponsor](https://github.com/sponsors/kotarella1110) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/12913947?u=f558e71f6e080d723774a6799303e5ad6b3ca3af&v=4" alt="" width="40" /> | 🍺-driven development |
-| [react-hook-form](https://github.com/react-hook-form/react-hook-form) | 📋 React Hooks for form state management and validation \(Web + React Native\) |
-
-    
-
 ## [AkiraFukushima](https://github.com/h3poteto)
     
 | [@h3poteto](https://github.com/h3poteto) | [❤️Sponsor](https://github.com/sponsors/h3poteto) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/4631959?u=3a8631c74003326ee420d540d398e4e06fe4caf4&v=4" alt="" width="40" /> |  |
 | [whalebird-desktop](https://github.com/h3poteto/whalebird-desktop) | Single-column Fediverse client for desktop |
+
+    
+
+## [Kotaro Sugawara](https://github.com/kotarella1110)
+    
+| [@kotarella1110](https://github.com/kotarella1110) | [❤️Sponsor](https://github.com/sponsors/kotarella1110) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/12913947?u=f558e71f6e080d723774a6799303e5ad6b3ca3af&v=4" alt="" width="40" /> | 🍺-driven development |
+| [react-hook-form](https://github.com/react-hook-form/react-hook-form) | 📋 React Hooks for form state management and validation \(Web + React Native\) |
 
     
 
@@ -2572,21 +2572,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Shogo Ohta](https://github.com/athos)
-    
-| [@athos](https://github.com/athos) | [❤️Sponsor](https://github.com/sponsors/athos) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/27441?v=4" alt="" width="40" /> | Clojure\(Script\) dev |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Sho Nakatani](https://github.com/laysakura)
     
 | [@laysakura](https://github.com/laysakura) | [❤️Sponsor](https://github.com/sponsors/laysakura) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/498788?u=e74dbdce7d6e28258447b952475d6d667965da01&v=4" alt="" width="40" /> | A low-level system developer \/ backend engineer in Tokyo. |
 | [SpringQL](https://github.com/SpringQL/SpringQL) | SpringQL: Open-source stream processor for IoT devices and in-vehicle computers |
+
+    
+
+## [Shogo Ohta](https://github.com/athos)
+    
+| [@athos](https://github.com/athos) | [❤️Sponsor](https://github.com/sponsors/athos) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/27441?v=4" alt="" width="40" /> | Clojure\(Script\) dev |
+| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -2599,12 +2599,12 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Aya \(Igarashi\) Ozawa](https://github.com/Ladicle)
+## [tobya](https://github.com/tobyapi)
     
-| [@Ladicle](https://github.com/Ladicle) | [❤️Sponsor](https://github.com/sponsors/Ladicle) |
+| [@tobyapi](https://github.com/tobyapi) | [❤️Sponsor](https://github.com/sponsors/tobyapi) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/1159133?u=751a14b35e7dcebf2aa8eaf5a6c668388e1fb611&v=4" alt="" width="40" /> | Software Engineer |
-| [kubectl-rolesum](https://github.com/Ladicle/kubectl-rolesum) | Summarize Kubernetes RBAC roles for the specified subjects. |
+| <img src="https://avatars.githubusercontent.com/u/5316909?u=ff43f6725bb01761cca70221a841501f4d2bfeea&v=4" alt="" width="40" /> | Kawaii VRSNS Developer |
+| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -2617,20 +2617,20 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
+## [Aya \(Igarashi\) Ozawa](https://github.com/Ladicle)
+    
+| [@Ladicle](https://github.com/Ladicle) | [❤️Sponsor](https://github.com/sponsors/Ladicle) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/1159133?u=751a14b35e7dcebf2aa8eaf5a6c668388e1fb611&v=4" alt="" width="40" /> | Software Engineer |
+| [kubectl-rolesum](https://github.com/Ladicle/kubectl-rolesum) | Summarize Kubernetes RBAC roles for the specified subjects. |
+
+    
+
 ## [KUBOTA Shota](https://github.com/kubosho)
     
 | [@kubosho](https://github.com/kubosho) | [❤️Sponsor](https://github.com/sponsors/kubosho) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/430267?u=60673a2a43b655c8aa078d9c39a50a21c1344ced&v=4" alt="" width="40" /> | Software developer \/ Illustrator |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
-## [tobya](https://github.com/tobyapi)
-    
-| [@tobyapi](https://github.com/tobyapi) | [❤️Sponsor](https://github.com/sponsors/tobyapi) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/5316909?u=ff43f6725bb01761cca70221a841501f4d2bfeea&v=4" alt="" width="40" /> | Kawaii VRSNS Developer |
 | <!-- no item --> | <!-- no description --> |
 
     
@@ -2641,6 +2641,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/952100?v=4" alt="" width="40" /> | Software Engineer @m3dev. Focusing on serverside. Love Ruby, Elixir, ErgoDox and OSS. |
 | [power\_assert\_ex](https://github.com/ma2gedev/power_assert_ex) | Power Assert in Elixir. Shows evaluation results each expression. |
+
+    
+
+## [Soh Satoh](https://github.com/sohsatoh)
+    
+| [@sohsatoh](https://github.com/sohsatoh) | [❤️Sponsor](https://github.com/sponsors/sohsatoh) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/20023945?u=7c5cd5c664d78bad27a4e89ea83d22616dd34434&v=4" alt="" width="40" /> | Shit code here |
+| [ReProvision-Reborn](https://github.com/sohsatoh/ReProvision-Reborn) | On-device signing utility for iOS |
 
     
 
@@ -2671,20 +2680,20 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Soh Satoh](https://github.com/sohsatoh)
-    
-| [@sohsatoh](https://github.com/sohsatoh) | [❤️Sponsor](https://github.com/sponsors/sohsatoh) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/20023945?u=7c5cd5c664d78bad27a4e89ea83d22616dd34434&v=4" alt="" width="40" /> | Shit code here |
-| [ReProvision-Reborn](https://github.com/sohsatoh/ReProvision-Reborn) | On-device signing utility for iOS |
-
-    
-
 ## [loveemu](https://github.com/loveemu)
     
 | [@loveemu](https://github.com/loveemu) | [❤️Sponsor](https://github.com/sponsors/loveemu) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/3953211?v=4" alt="" width="40" /> | Researching and developing a useful tool for video game music |
+| <!-- no item --> | <!-- no description --> |
+
+    
+
+## [Saki Takamachi](https://github.com/SakiTakamachi)
+    
+| [@SakiTakamachi](https://github.com/SakiTakamachi) | [❤️Sponsor](https://github.com/sponsors/SakiTakamachi) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/34942839?u=8d798398c2d711d979d39c023492aff9b19c6b34&v=4" alt="" width="40" /> | I'm an engineer, a singer and a karate holder. I'm very interested in PDO. |
 | <!-- no item --> | <!-- no description --> |
 
     
@@ -2695,15 +2704,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/7448569?u=a69a15d6f42cef2b06b04e536473726d8356e471&v=4" alt="" width="40" /> | Learn something new every day. |
 | [auto-assign](https://github.com/kentaro-m/auto-assign) | 🤖 A Probot app that adds reviewers to pull requests when pull requests are opened. |
-
-    
-
-## [Saki Takamachi](https://github.com/SakiTakamachi)
-    
-| [@SakiTakamachi](https://github.com/SakiTakamachi) | [❤️Sponsor](https://github.com/sponsors/SakiTakamachi) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/34942839?u=8d798398c2d711d979d39c023492aff9b19c6b34&v=4" alt="" width="40" /> | I'm an engineer, a singer and a karate holder. I'm very interested in PDO. |
-| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -2806,6 +2806,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
+## [Shunsuke Shibayama](https://github.com/mtshiba)
+    
+| [@mtshiba](https://github.com/mtshiba) | [❤️Sponsor](https://github.com/sponsors/mtshiba) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/45118249?u=99b392b0a055a87acae24991ebdb365893422c01&v=4" alt="" width="40" /> | Majoring in Physics. Interested in quantum mechanics & programming languages.  |
+| [erg](https://github.com/erg-lang/erg) | A statically typed language compatible with Python |
+
+    
+
 ## [ytakano](https://github.com/ytakano)
     
 | [@ytakano](https://github.com/ytakano) | [❤️Sponsor](https://github.com/sponsors/ytakano) |
@@ -2830,15 +2839,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/15243878?u=14a30954f24576ea557914681b354a1c15ec742e&v=4" alt="" width="40" /> | Programming \/ Web Design \/ Graphic Design \/ etc... |
 | [arkw.net-nuxt](https://github.com/arkwnet/arkw.net-nuxt) | My website \(2022\/06~\) |
-
-    
-
-## [Shunsuke Shibayama](https://github.com/mtshiba)
-    
-| [@mtshiba](https://github.com/mtshiba) | [❤️Sponsor](https://github.com/sponsors/mtshiba) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/45118249?u=99b392b0a055a87acae24991ebdb365893422c01&v=4" alt="" width="40" /> | Majoring in Physics. Interested in quantum mechanics & programming languages.  |
-| [erg](https://github.com/erg-lang/erg) | A statically typed language compatible with Python |
 
     
 
@@ -2896,12 +2896,30 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
+## [Masahiro331](https://github.com/masahiro331)
+    
+| [@masahiro331](https://github.com/masahiro331) | [❤️Sponsor](https://github.com/sponsors/masahiro331) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/20438853?u=3caab5beb01b4fb4dc6b654da9bfc831374fb103&v=4" alt="" width="40" /> | Sorry, I'm not good at English.  I may write some terrible expressions. I am always looking for work.   |
+| [go-commitlinter](https://github.com/masahiro331/go-commitlinter) | <!-- no description --> |
+
+    
+
 ## [NISHIZAWA Shuntaro](https://github.com/shun-shobon)
     
 | [@shun-shobon](https://github.com/shun-shobon) | [❤️Sponsor](https://github.com/sponsors/shun-shobon) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/37236438?u=72768f08cec0d067eba1b0f67fb220e99acbb578&v=4" alt="" width="40" /> | University Student \/ Web App Developer |
 | [justcommit](https://github.com/shun-shobon/justcommit) | AI-powered commit message generator |
+
+    
+
+## [Taku Amano](https://github.com/usualoma)
+    
+| [@usualoma](https://github.com/usualoma) | [❤️Sponsor](https://github.com/sponsors/usualoma) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/30598?v=4" alt="" width="40" /> |  |
+| [movabletype](https://github.com/movabletype/movabletype) | Movable Type |
 
     
 
@@ -2914,30 +2932,12 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Masahiro331](https://github.com/masahiro331)
-    
-| [@masahiro331](https://github.com/masahiro331) | [❤️Sponsor](https://github.com/sponsors/masahiro331) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/20438853?u=3caab5beb01b4fb4dc6b654da9bfc831374fb103&v=4" alt="" width="40" /> | Sorry, I'm not good at English.  I may write some terrible expressions. I am always looking for work.   |
-| [go-commitlinter](https://github.com/masahiro331/go-commitlinter) | <!-- no description --> |
-
-    
-
 ## [ARIYAMA Keiji](https://github.com/keiji)
     
 | [@keiji](https://github.com/keiji) | [❤️Sponsor](https://github.com/sponsors/keiji) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/932136?u=9a90143fce4bb4f9b28f6e0620f22186ce0c3143&v=4" alt="" width="40" /> | Programmer. Android Application Developer.  Machine Learning Hobbyist \(TensorFlow\). |
 | [mangaview](https://github.com/keiji/mangaview) | An ImageView for reading manga\(comics\) for Android. |
-
-    
-
-## [Taku Amano](https://github.com/usualoma)
-    
-| [@usualoma](https://github.com/usualoma) | [❤️Sponsor](https://github.com/sponsors/usualoma) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/30598?v=4" alt="" width="40" /> |  |
-| [movabletype](https://github.com/movabletype/movabletype) | Movable Type |
 
     
 
@@ -3022,21 +3022,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Takashi Toyoshima](https://github.com/toyoshim)
-    
-| [@toyoshim](https://github.com/toyoshim) | [❤️Sponsor](https://github.com/sponsors/toyoshim) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/577684?u=fa7085a695186615f036cec99858ac4672cec5b7&v=4" alt="" width="40" /> |  |
-| [tss](https://github.com/toyoshim/tss) | Chiptune Sound Library - T'SoundSystem |
-
-    
-
 ## [うっちぃ](https://github.com/ucchyocean)
     
 | [@ucchyocean](https://github.com/ucchyocean) | [❤️Sponsor](https://github.com/sponsors/ucchyocean) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/2563444?v=4" alt="" width="40" /> |  |
 | [LunaChat](https://github.com/ucchyocean/LunaChat) | Channel Chat Plugin for CraftBukkit |
+
+    
+
+## [Takashi Toyoshima](https://github.com/toyoshim)
+    
+| [@toyoshim](https://github.com/toyoshim) | [❤️Sponsor](https://github.com/sponsors/toyoshim) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/577684?u=fa7085a695186615f036cec99858ac4672cec5b7&v=4" alt="" width="40" /> |  |
+| [tss](https://github.com/toyoshim/tss) | Chiptune Sound Library - T'SoundSystem |
 
     
 
@@ -3283,15 +3283,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [nariakiiwatani](https://github.com/nariakiiwatani)
-    
-| [@nariakiiwatani](https://github.com/nariakiiwatani) | [❤️Sponsor](https://github.com/sponsors/nariakiiwatani) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/1306139?u=147df5443e3994e9eaa0a74cdd2c9986f2d6a3d4&v=4" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [カワリミ人形](https://github.com/kawarimidoll)
     
 | [@kawarimidoll](https://github.com/kawarimidoll) | [❤️Sponsor](https://github.com/sponsors/kawarimidoll) |
@@ -3316,6 +3307,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/4568341?v=4" alt="" width="40" /> | CloudMaker at @CyberAgent ｜ 💗 Infra\/Web\/IP\/... ｜   Please write your favorite foods in the mail about job hiring 🍣🍖🍎 |
 | [myshoes](https://github.com/whywaita/myshoes) | Auto-scaling VirtualMachine runner 🏃  for GitHub Actions |
+
+    
+
+## [nariakiiwatani](https://github.com/nariakiiwatani)
+    
+| [@nariakiiwatani](https://github.com/nariakiiwatani) | [❤️Sponsor](https://github.com/sponsors/nariakiiwatani) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/1306139?u=147df5443e3994e9eaa0a74cdd2c9986f2d6a3d4&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -3445,21 +3445,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Shumpei Urabe](https://github.com/yaminoma)
-    
-| [@yaminoma](https://github.com/yaminoma) | [❤️Sponsor](https://github.com/sponsors/yaminoma) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/15951796?u=52836f4ee2d194ff658bbc65991636374a05722b&v=4" alt="" width="40" /> | "Yaminoma" has a strong meaning in Japanese. |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Brandon Pittman](https://github.com/brandonpittman)
     
 | [@brandonpittman](https://github.com/brandonpittman) | [❤️Sponsor](https://github.com/sponsors/brandonpittman) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/967145?u=a0c390fc6689da83a5fb10aa017ed9f58466673a&v=4" alt="" width="40" /> | Building excellent websites with React, Remix, Qwik, and Vanilla Extract. I also fuck around with ReScript, OCaml, Elm, and Haskell.   |
 | [qwik-markdown](https://github.com/brandonpittman/qwik-markdown) | Helper CLIs for dealing with Markdown routes in Qwik City apps. |
+
+    
+
+## [Shumpei Urabe](https://github.com/yaminoma)
+    
+| [@yaminoma](https://github.com/yaminoma) | [❤️Sponsor](https://github.com/sponsors/yaminoma) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/15951796?u=52836f4ee2d194ff658bbc65991636374a05722b&v=4" alt="" width="40" /> | "Yaminoma" has a strong meaning in Japanese. |
+| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -3490,21 +3490,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Okuto Oyama](https://github.com/yamanoku)
-    
-| [@yamanoku](https://github.com/yamanoku) | [❤️Sponsor](https://github.com/sponsors/yamanoku) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/1996642?u=8c8576cc48d2c6ff6f377a753a5a162d9be937de&v=4" alt="" width="40" /> | FrontEnd Designer \/ Internet Junkie  |
-| [Curriculum-Vitae](https://github.com/yamanoku/Curriculum-Vitae) | 職務経歴書 \/ Curriculum-Vitae |
-
-    
-
 ## [Yasuhisa Yoshida](https://github.com/syou6162)
     
 | [@syou6162](https://github.com/syou6162) | [❤️Sponsor](https://github.com/sponsors/syou6162) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/18356?u=cd021503205016fa99b9505ab17f648d302b9f8b&v=4" alt="" width="40" /> | Data Engineer at 10X |
 | [go-active-learning](https://github.com/syou6162/go-active-learning) | go-active-learning is a command line annotation tool for binary classification problem written in Go. |
+
+    
+
+## [Okuto Oyama](https://github.com/yamanoku)
+    
+| [@yamanoku](https://github.com/yamanoku) | [❤️Sponsor](https://github.com/sponsors/yamanoku) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/1996642?u=8c8576cc48d2c6ff6f377a753a5a162d9be937de&v=4" alt="" width="40" /> | FrontEnd Designer \/ Internet Junkie  |
+| [Curriculum-Vitae](https://github.com/yamanoku/Curriculum-Vitae) | 職務経歴書 \/ Curriculum-Vitae |
 
     
 
@@ -3562,21 +3562,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Mitsunori Komatsu](https://github.com/komamitsu)
-    
-| [@komamitsu](https://github.com/komamitsu) | [❤️Sponsor](https://github.com/sponsors/komamitsu) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/59043?v=4" alt="" width="40" /> |  |
-| [fluency](https://github.com/komamitsu/fluency) | High throughput data ingestion logger to Fluentd, AWS S3 and Treasure Data |
-
-    
-
 ## [KADOTA, Kyohei](https://github.com/lufia)
     
 | [@lufia](https://github.com/lufia) | [❤️Sponsor](https://github.com/sponsors/lufia) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/1784379?u=566ae0173c29e10d545c1bdd122d6e538a4d7060&v=4" alt="" width="40" /> | A fan of Plan 9 from Bell-labs, Go developer, and server administrator. |
 | <!-- no item --> | <!-- no description --> |
+
+    
+
+## [Mitsunori Komatsu](https://github.com/komamitsu)
+    
+| [@komamitsu](https://github.com/komamitsu) | [❤️Sponsor](https://github.com/sponsors/komamitsu) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/59043?v=4" alt="" width="40" /> |  |
+| [fluency](https://github.com/komamitsu/fluency) | High throughput data ingestion logger to Fluentd, AWS S3 and Treasure Data |
 
     
 
@@ -3607,15 +3607,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Yusuke Miyazaki](https://github.com/ymyzk)
-    
-| [@ymyzk](https://github.com/ymyzk) | [❤️Sponsor](https://github.com/sponsors/ymyzk) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/3383281?v=4" alt="" width="40" /> | Site Reliability Engineer \/ Software Engineer |
-| [tox-gh-actions](https://github.com/ymyzk/tox-gh-actions) | Seamless integration of tox into GitHub Actions for tox 3 and 4 |
-
-    
-
 ## [Minoru Akagi](https://github.com/minorua)
     
 | [@minorua](https://github.com/minorua) | [❤️Sponsor](https://github.com/sponsors/minorua) |
@@ -3640,6 +3631,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/780600?v=4" alt="" width="40" /> | A digital circuit design engineer, C & C++ backend programmer, also familiar with python & shell programming. |
 | [obs-color-monitor](https://github.com/norihiro/obs-color-monitor) | Vectorscope, waveform, and histogram for OBS Studio |
+
+    
+
+## [Yusuke Miyazaki](https://github.com/ymyzk)
+    
+| [@ymyzk](https://github.com/ymyzk) | [❤️Sponsor](https://github.com/sponsors/ymyzk) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/3383281?v=4" alt="" width="40" /> | Site Reliability Engineer \/ Software Engineer |
+| [tox-gh-actions](https://github.com/ymyzk/tox-gh-actions) | Seamless integration of tox into GitHub Actions for tox 3 and 4 |
 
     
 
@@ -3688,6 +3688,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
+## [Hirochika Matsumoto](https://github.com/hkmatsumoto)
+    
+| [@hkmatsumoto](https://github.com/hkmatsumoto) | [❤️Sponsor](https://github.com/sponsors/hkmatsumoto) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/57856193?v=4" alt="" width="40" /> |  |
+| [roogle](https://github.com/roogle-rs/roogle) | A Rust API search engine |
+
+    
+
 ## [Aki Hamano](https://github.com/t-hamano)
     
 | [@t-hamano](https://github.com/t-hamano) | [❤️Sponsor](https://github.com/sponsors/t-hamano) |
@@ -3703,15 +3712,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/43239?u=f658c3fc8ceafa66c504ef07f990ad8041ded70a&v=4" alt="" width="40" /> |  |
 | [dotfiles](https://github.com/januswel/dotfiles) | software setting files |
-
-    
-
-## [Hirochika Matsumoto](https://github.com/hkmatsumoto)
-    
-| [@hkmatsumoto](https://github.com/hkmatsumoto) | [❤️Sponsor](https://github.com/sponsors/hkmatsumoto) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/57856193?v=4" alt="" width="40" /> |  |
-| [roogle](https://github.com/roogle-rs/roogle) | A Rust API search engine |
 
     
 
@@ -3742,6 +3742,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
+## [Daichi Ninomiya](https://github.com/dninomiya)
+    
+| [@dninomiya](https://github.com/dninomiya) | [❤️Sponsor](https://github.com/sponsors/dninomiya) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/5842851?u=b813092bb6501c5e677553e562d8fc274773cd0d&v=4" alt="" width="40" /> | Web Developer. |
+| [flock-examples](https://github.com/dninomiya/flock-examples) | Webアプリ実装例 |
+
+    
+
 ## [Naoki Ainoya](https://github.com/ainoya)
     
 | [@ainoya](https://github.com/ainoya) | [❤️Sponsor](https://github.com/sponsors/ainoya) |
@@ -3757,6 +3766,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/8973217?u=ea308cfe6ae20e957e4d3786beb8492fde531f0b&v=4" alt="" width="40" /> | Deep learning compiler, edge machine learning, CI\/CD pipeline. Buy me coffee at https:\/\/www.buymeacoffee.com\/mshr.h |
 | [vscode-verilog-hdl-support](https://github.com/mshr-h/vscode-verilog-hdl-support) | HDL support for VS Code |
+
+    
+
+## [Noboru Saito](https://github.com/noborus)
+    
+| [@noborus](https://github.com/noborus) | [❤️Sponsor](https://github.com/sponsors/noborus) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/2296563?u=aba171f20bd52948f1259fb5f676c98647bdeb91&v=4" alt="" width="40" /> | Interested in SQL  |
+| [trdsql](https://github.com/noborus/trdsql) | CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN. Can output to various formats. |
 
     
 
@@ -3778,15 +3796,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Daichi Ninomiya](https://github.com/dninomiya)
-    
-| [@dninomiya](https://github.com/dninomiya) | [❤️Sponsor](https://github.com/sponsors/dninomiya) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/5842851?u=b813092bb6501c5e677553e562d8fc274773cd0d&v=4" alt="" width="40" /> | Web Developer. |
-| [flock-examples](https://github.com/dninomiya/flock-examples) | Webアプリ実装例 |
-
-    
-
 ## [HAMANO Tsukasa](https://github.com/hamano)
     
 | [@hamano](https://github.com/hamano) | [❤️Sponsor](https://github.com/sponsors/hamano) |
@@ -3802,15 +3811,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/1079715?v=4" alt="" width="40" /> |  |
 | <!-- no item --> | <!-- no description --> |
-
-    
-
-## [Noboru Saito](https://github.com/noborus)
-    
-| [@noborus](https://github.com/noborus) | [❤️Sponsor](https://github.com/sponsors/noborus) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/2296563?u=aba171f20bd52948f1259fb5f676c98647bdeb91&v=4" alt="" width="40" /> | Interested in SQL  |
-| [trdsql](https://github.com/noborus/trdsql) | CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN. Can output to various formats. |
 
     
 
@@ -3904,6 +3904,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
+## [Toshinori Sugita](https://github.com/toshi0607)
+    
+| [@toshi0607](https://github.com/toshi0607) | [❤️Sponsor](https://github.com/sponsors/toshi0607) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/7035446?u=c42e38e9e8d20a4135243e9af953fe9923719e68&v=4" alt="" width="40" /> | Platform Engineer at LegalOn Technologies, sauna, and cat lover |
+| [build-your-own-platform-with-knative](https://github.com/toshi0607/build-your-own-platform-with-knative) | Knativeのコンポーネントを理解しながらFaaSプラットフォームをDIYするワークショップです |
+
+    
+
 ## [本田珠彩](https://github.com/katabame)
     
 | [@katabame](https://github.com/katabame) | [❤️Sponsor](https://github.com/sponsors/katabame) |
@@ -3919,15 +3928,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/36804488?u=371376e187477566250307a4970c3dacaed7d833&v=4" alt="" width="40" /> | Rust, Go and Kotlin enthusiast |
 | [obws](https://github.com/dnaka91/obws) | The obws \(obvious\) remote control library for OBS |
-
-    
-
-## [Toshinori Sugita](https://github.com/toshi0607)
-    
-| [@toshi0607](https://github.com/toshi0607) | [❤️Sponsor](https://github.com/sponsors/toshi0607) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/7035446?u=c42e38e9e8d20a4135243e9af953fe9923719e68&v=4" alt="" width="40" /> | Platform Engineer at LegalOn Technologies, sauna, and cat lover |
-| [build-your-own-platform-with-knative](https://github.com/toshi0607/build-your-own-platform-with-knative) | Knativeのコンポーネントを理解しながらFaaSプラットフォームをDIYするワークショップです |
 
     
 
@@ -4066,12 +4066,12 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Sho Sakuma](https://github.com/m1sk9)
+## [Small Long](https://github.com/long-910)
     
-| [@m1sk9](https://github.com/m1sk9) | [❤️Sponsor](https://github.com/sponsors/m1sk9) |
+| [@long-910](https://github.com/long-910) | [❤️Sponsor](https://github.com/sponsors/long-910) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/82575685?u=058c485e0adfa1a4c2533916dc452fcfaac46c7e&v=4" alt="" width="40" /> | 18yo. owner: @pulsate-dev \/ admin: @GiganticMinecraft |
-| [ichiyoAI](https://github.com/approvers/ichiyoAI) | ChatGPT \/ Gemini \/ DALL-E が利用できる Discord Bot |
+| <img src="https://avatars.githubusercontent.com/u/7323488?u=702aa8a6db487eb0773c50c4a1a21936fed93b60&v=4" alt="" width="40" /> | Embedded Software Engineer |
+| [dotfiles](https://github.com/long-910/dotfiles) | <!-- no description --> |
 
     
 
@@ -4111,21 +4111,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [yoh](https://github.com/yohhoy)
-    
-| [@yohhoy](https://github.com/yohhoy) | [❤️Sponsor](https://github.com/sponsors/yohhoy) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/839636?v=4" alt="" width="40" /> | 🐢 |
-| [yamc](https://github.com/yohhoy/yamc) | C++ mutex collections, cross-platform header-only C++11 \(or later\) library. |
-
-    
-
 ## [Akinori ABE](https://github.com/akabe)
     
 | [@akabe](https://github.com/akabe) | [❤️Sponsor](https://github.com/sponsors/akabe) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/6229475?u=04d98c06ba64569d872b04a06772ac2761131a56&v=4" alt="" width="40" /> |  |
 | [ocaml-jupyter](https://github.com/akabe/ocaml-jupyter) | An OCaml kernel for Jupyter \(IPython\) notebook |
+
+    
+
+## [yoh](https://github.com/yohhoy)
+    
+| [@yohhoy](https://github.com/yohhoy) | [❤️Sponsor](https://github.com/sponsors/yohhoy) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/839636?v=4" alt="" width="40" /> | 🐢 |
+| [yamc](https://github.com/yohhoy/yamc) | C++ mutex collections, cross-platform header-only C++11 \(or later\) library. |
 
     
 
@@ -4144,6 +4144,24 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/1180756?v=4" alt="" width="40" /> |  |
 | [pcap4j](https://github.com/kaitoy/pcap4j) | A Java library for capturing, crafting, and sending packets. |
+
+    
+
+## [sasaplus1](https://github.com/sasaplus1)
+    
+| [@sasaplus1](https://github.com/sasaplus1) | [❤️Sponsor](https://github.com/sponsors/sasaplus1) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/309466?u=93017a5afd72abe93b5db3a1740ea6359ca3b47d&v=4" alt="" width="40" /> | Takafumi Sasage \/ JavaScript, Bash, Vim, Git, Build mechanical keyboard, etc. sandbox: @sasaplus1-prototype  |
+| [deepcopy.js](https://github.com/sasaplus1/deepcopy.js) | deep copy data |
+
+    
+
+## [Sho Sakuma](https://github.com/m1sk9)
+    
+| [@m1sk9](https://github.com/m1sk9) | [❤️Sponsor](https://github.com/sponsors/m1sk9) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/82575685?u=058c485e0adfa1a4c2533916dc452fcfaac46c7e&v=4" alt="" width="40" /> | 18yo. owner: @pulsate-dev \/ admin: @GiganticMinecraft |
+| [ichiyoAI](https://github.com/approvers/ichiyoAI) | ChatGPT \/ Gemini \/ DALL-E が利用できる Discord Bot |
 
     
 
@@ -4201,15 +4219,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [sasaplus1](https://github.com/sasaplus1)
-    
-| [@sasaplus1](https://github.com/sasaplus1) | [❤️Sponsor](https://github.com/sponsors/sasaplus1) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/309466?u=93017a5afd72abe93b5db3a1740ea6359ca3b47d&v=4" alt="" width="40" /> | Takafumi Sasage \/ JavaScript, Bash, Vim, Git, Build mechanical keyboard, etc. sandbox: @sasaplus1-prototype  |
-| [deepcopy.js](https://github.com/sasaplus1/deepcopy.js) | deep copy data |
-
-    
-
 ## [FromAtom](https://github.com/FromAtom)
     
 | [@FromAtom](https://github.com/FromAtom) | [❤️Sponsor](https://github.com/sponsors/FromAtom) |
@@ -4255,15 +4264,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Small Long](https://github.com/long-910)
-    
-| [@long-910](https://github.com/long-910) | [❤️Sponsor](https://github.com/sponsors/long-910) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/7323488?u=702aa8a6db487eb0773c50c4a1a21936fed93b60&v=4" alt="" width="40" /> | Embedded Software Engineer |
-| [dotfiles](https://github.com/long-910/dotfiles) | <!-- no description --> |
-
-    
-
 ## [839](https://github.com/8398a7)
     
 | [@8398a7](https://github.com/8398a7) | [❤️Sponsor](https://github.com/sponsors/8398a7) |
@@ -4300,24 +4300,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [subaru](https://github.com/su8ru)
-    
-| [@su8ru](https://github.com/su8ru) | [❤️Sponsor](https://github.com/sponsors/su8ru) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/33474143?v=4" alt="" width="40" /> | 🐈 @HUITGroup  |
-| [su8ru.dev](https://github.com/su8ru/su8ru.dev) | su8ru's portfolio |
-
-    
-
-## [Sʜɪᴍᴜʀᴀ Yū](https://github.com/yuhr)
-    
-| [@yuhr](https://github.com/yuhr) | [❤️Sponsor](https://github.com/sponsors/yuhr) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/18474125?v=4" alt="" width="40" /> | ❤️ Rust, TypeScript, Haskell |
-| [langue](https://github.com/yuhr/langue) | A modern platform for conlanging. Currently in the planning stage. |
-
-    
-
 ## [gangan](https://github.com/shinGangan)
     
 | [@shinGangan](https://github.com/shinGangan) | [❤️Sponsor](https://github.com/sponsors/shinGangan) |
@@ -4327,12 +4309,12 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Mathias Polligkeit](https://github.com/woylie)
+## [subaru](https://github.com/su8ru)
     
-| [@woylie](https://github.com/woylie) | [❤️Sponsor](https://github.com/sponsors/woylie) |
+| [@su8ru](https://github.com/su8ru) | [❤️Sponsor](https://github.com/sponsors/su8ru) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/13847569?u=c887b12dab4d36eb8298e97a8c6b98cf34618d7c&v=4" alt="" width="40" /> |  |
-| [flop](https://github.com/woylie/flop) | Filtering, ordering and pagination for Ecto |
+| <img src="https://avatars.githubusercontent.com/u/33474143?v=4" alt="" width="40" /> | 🐈 @HUITGroup  |
+| [su8ru.dev](https://github.com/su8ru/su8ru.dev) | su8ru's portfolio |
 
     
 
@@ -4345,12 +4327,12 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Horiuchi Hiroki](https://github.com/horiuchi)
+## [Sʜɪᴍᴜʀᴀ Yū](https://github.com/yuhr)
     
-| [@horiuchi](https://github.com/horiuchi) | [❤️Sponsor](https://github.com/sponsors/horiuchi) |
+| [@yuhr](https://github.com/yuhr) | [❤️Sponsor](https://github.com/sponsors/yuhr) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/32570?v=4" alt="" width="40" /> | I'm a programmer. |
-| [dtsgenerator](https://github.com/horiuchi/dtsgenerator) | TypeScript d.ts file generate from JSON Schema file |
+| <img src="https://avatars.githubusercontent.com/u/18474125?v=4" alt="" width="40" /> | ❤️ Rust, TypeScript, Haskell |
+| [langue](https://github.com/yuhr/langue) | A modern platform for conlanging. Currently in the planning stage. |
 
     
 
@@ -4360,6 +4342,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/537587?u=6ce501e58bb2b09c4726310c1432c0dbec2f5c32&v=4" alt="" width="40" /> | I like iOS, firebase, TypeScript |
 | [TwitterAPIKit](https://github.com/mironal/TwitterAPIKit) | Swift library for the Twitter API v1 and v2 🍷 |
+
+    
+
+## [Mathias Polligkeit](https://github.com/woylie)
+    
+| [@woylie](https://github.com/woylie) | [❤️Sponsor](https://github.com/sponsors/woylie) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/13847569?u=c887b12dab4d36eb8298e97a8c6b98cf34618d7c&v=4" alt="" width="40" /> |  |
+| [flop](https://github.com/woylie/flop) | Filtering, ordering and pagination for Ecto |
 
     
 
@@ -4405,6 +4396,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/22737008?u=60c1d3787eb76fdc4b6243ab2d4ffe7739b7493a&v=4" alt="" width="40" /> | Backend engineer with golang and AWS. Love CLI tool for Linux.  |
 | [gup](https://github.com/nao1215/gup) | gup - Update binaries installed by "go install" with goroutines. |
+
+    
+
+## [Horiuchi Hiroki](https://github.com/horiuchi)
+    
+| [@horiuchi](https://github.com/horiuchi) | [❤️Sponsor](https://github.com/sponsors/horiuchi) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/32570?v=4" alt="" width="40" /> | I'm a programmer. |
+| [dtsgenerator](https://github.com/horiuchi/dtsgenerator) | TypeScript d.ts file generate from JSON Schema file |
 
     
 
@@ -4543,6 +4543,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
+## [Taketo Yoshida](https://github.com/tamanyan)
+    
+| [@tamanyan](https://github.com/tamanyan) | [❤️Sponsor](https://github.com/sponsors/tamanyan) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/2387508?u=4926892714006d1db9c758e314e57a1aba77d5fe&v=4" alt="" width="40" /> | Software Development Engineer at Adobe. Next.js \/ React \/ Nuxt.js \/ iOS \/ Swift \/ Python \/ JavaScript \/ AWS \/ Firebase |
+| [SwiftPageMenu](https://github.com/tamanyan/SwiftPageMenu) | Customizable Page Tab Menu Controller 👍 |
+
+    
+
 ## [Aodaruma](https://github.com/Aodaruma)
     
 | [@Aodaruma](https://github.com/Aodaruma) | [❤️Sponsor](https://github.com/sponsors/Aodaruma) |
@@ -4561,15 +4570,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Koga Kobayashi](https://github.com/kajyuuen)
-    
-| [@kajyuuen](https://github.com/kajyuuen) | [❤️Sponsor](https://github.com/sponsors/kajyuuen) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/15792784?u=392445c8162c89a7107d3b2bb571a24e68367074&v=4" alt="" width="40" /> |  |
-| [LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese) | DistilBERT model pre-trained on 131 GB of Japanese web text. The teacher model is BERT-base that built in-house at LINE. |
-
-    
-
 ## [Hirotada Kobayashi](https://github.com/pierre3)
     
 | [@pierre3](https://github.com/pierre3) | [❤️Sponsor](https://github.com/sponsors/pierre3) |
@@ -4579,21 +4579,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
+## [Koga Kobayashi](https://github.com/kajyuuen)
+    
+| [@kajyuuen](https://github.com/kajyuuen) | [❤️Sponsor](https://github.com/sponsors/kajyuuen) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/15792784?u=392445c8162c89a7107d3b2bb571a24e68367074&v=4" alt="" width="40" /> |  |
+| [LINE-DistilBERT-Japanese](https://github.com/line/LINE-DistilBERT-Japanese) | DistilBERT model pre-trained on 131 GB of Japanese web text. The teacher model is BERT-base that built in-house at LINE. |
+
+    
+
 ## [Tomohiro](https://github.com/demotomohiro)
     
 | [@demotomohiro](https://github.com/demotomohiro) | [❤️Sponsor](https://github.com/sponsors/demotomohiro) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/1882512?u=e99116124e7687383d53c935e68cc40b92d21abe&v=4" alt="" width="40" /> |  |
 | <!-- no item --> | <!-- no description --> |
-
-    
-
-## [Taketo Yoshida](https://github.com/tamanyan)
-    
-| [@tamanyan](https://github.com/tamanyan) | [❤️Sponsor](https://github.com/sponsors/tamanyan) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/2387508?u=4926892714006d1db9c758e314e57a1aba77d5fe&v=4" alt="" width="40" /> | Software Development Engineer at Adobe. Next.js \/ React \/ Nuxt.js \/ iOS \/ Swift \/ Python \/ JavaScript \/ AWS \/ Firebase |
-| [SwiftPageMenu](https://github.com/tamanyan/SwiftPageMenu) | Customizable Page Tab Menu Controller 👍 |
 
     
 
@@ -4858,15 +4858,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [nyatla](https://github.com/nyatla)
-    
-| [@nyatla](https://github.com/nyatla) | [❤️Sponsor](https://github.com/sponsors/nyatla) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/2483108?u=0ca84e5a3969fbe8ee3604c4ff9708c6a2d44cc1&v=4" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Kitamado](https://github.com/Seasawher)
     
 | [@Seasawher](https://github.com/Seasawher) | [❤️Sponsor](https://github.com/sponsors/Seasawher) |
@@ -4876,21 +4867,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
+## [nyatla](https://github.com/nyatla)
+    
+| [@nyatla](https://github.com/nyatla) | [❤️Sponsor](https://github.com/sponsors/nyatla) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/2483108?u=0ca84e5a3969fbe8ee3604c4ff9708c6a2d44cc1&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
+
+    
+
 ## [Yuya Minami](https://github.com/yuya373)
     
 | [@yuya373](https://github.com/yuya373) | [❤️Sponsor](https://github.com/sponsors/yuya373) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/3055271?u=efe8e0b90797bc170aa2db591a247b1a640ea37b&v=4" alt="" width="40" /> |  |
 | [Curriculum-Vitae](https://github.com/yuya373/Curriculum-Vitae) | 職務経歴書 |
-
-    
-
-## [Nanai Jua](https://github.com/Nanai10a)
-    
-| [@Nanai10a](https://github.com/Nanai10a) | [❤️Sponsor](https://github.com/sponsors/Nanai10a) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/62282295?u=3dd0df3592dbe98135150673a6616a8b5f5f6972&v=4" alt="" width="40" /> | No. Action. Progress. |
-| [n7i.dev](https://github.com/Nanai10a/n7i.dev) | main website. |
 
     
 
@@ -4921,7 +4912,7 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Shuhei Ohno](https://github.com/ohno)
+## [ohno](https://github.com/ohno)
     
 | [@ohno](https://github.com/ohno) | [❤️Sponsor](https://github.com/sponsors/ohno) |
 | --- | --- |
@@ -4954,6 +4945,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/9477376?u=68ff100f09a95bb41d42e82bee95a17889dc4478&v=4" alt="" width="40" /> |  |
 | [SBPAsyncImage](https://github.com/yutailang0119/SBPAsyncImage) | Backport of SwiftUI.AsyncImage to iOS 14, macOS 11, tvOS 14 and watchOS 7 and earlier. |
+
+    
+
+## [Nanai Jua](https://github.com/Nanai10a)
+    
+| [@Nanai10a](https://github.com/Nanai10a) | [❤️Sponsor](https://github.com/sponsors/Nanai10a) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/62282295?u=3dd0df3592dbe98135150673a6616a8b5f5f6972&v=4" alt="" width="40" /> | No. Action. Progress. |
+| [n7i.dev](https://github.com/Nanai10a/n7i.dev) | main website. |
 
     
 
@@ -5020,20 +5020,20 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [alphasp](https://github.com/alphasp)
-    
-| [@alphasp](https://github.com/alphasp) | [❤️Sponsor](https://github.com/sponsors/alphasp) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/2891447?u=8d8dc342bebe93396ba246df9de8fd6e314595bc&v=4" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Akihiro](https://github.com/akihiro0105)
     
 | [@akihiro0105](https://github.com/akihiro0105) | [❤️Sponsor](https://github.com/sponsors/akihiro0105) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/7656791?u=ff7da55f4b1fdd80215a6e5397371b6cfb5b6128&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
+
+    
+
+## [alphasp](https://github.com/alphasp)
+    
+| [@alphasp](https://github.com/alphasp) | [❤️Sponsor](https://github.com/sponsors/alphasp) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/2891447?u=8d8dc342bebe93396ba246df9de8fd6e314595bc&v=4" alt="" width="40" /> |  |
 | <!-- no item --> | <!-- no description --> |
 
     
@@ -5074,15 +5074,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Yoshihiro Ito](https://github.com/YoshihiroIto)
-    
-| [@YoshihiroIto](https://github.com/YoshihiroIto) | [❤️Sponsor](https://github.com/sponsors/YoshihiroIto) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/994125?u=1ad3e302d8fab20a3a6db0e2a8dde5f135c396a7&v=4" alt="" width="40" /> | Freelance engineer. |
-| [Biaui](https://github.com/YoshihiroIto/Biaui) | WPF dark theme and controls for .NET Core and .NET Framework |
-
-    
-
 ## [yozu](https://github.com/yasuo-ozu)
     
 | [@yasuo-ozu](https://github.com/yasuo-ozu) | [❤️Sponsor](https://github.com/sponsors/yasuo-ozu) |
@@ -5116,6 +5107,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/14127826?u=66c5489bd99d0e0b5677a7171c0b3787a17c5786&v=4" alt="" width="40" /> | Security Engineer ｜ CTFer @ctfsg  |
 | [isopach.github.io](https://github.com/Isopach/isopach.github.io) | Collection of my CTF writeups and Security Research. Usually only do Web\/Misc\/Forensics. Read files under \/\_posts\/ for the .MD files |
+
+    
+
+## [Yoshihiro Ito](https://github.com/YoshihiroIto)
+    
+| [@YoshihiroIto](https://github.com/YoshihiroIto) | [❤️Sponsor](https://github.com/sponsors/YoshihiroIto) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/994125?u=1ad3e302d8fab20a3a6db0e2a8dde5f135c396a7&v=4" alt="" width="40" /> | Freelance engineer. |
+| [Biaui](https://github.com/YoshihiroIto/Biaui) | WPF dark theme and controls for .NET Core and .NET Framework |
 
     
 
@@ -5227,15 +5227,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [ryosms](https://github.com/ryosms)
-    
-| [@ryosms](https://github.com/ryosms) | [❤️Sponsor](https://github.com/sponsors/ryosms) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/629117?v=4" alt="" width="40" /> |  |
-| [pixela-desktop](https://github.com/ryosms/pixela-desktop) | Awesome desktop client for https:\/\/pixe.la |
-
-    
-
 ## [Tomachi](https://github.com/book000)
     
 | [@book000](https://github.com/book000) | [❤️Sponsor](https://github.com/sponsors/book000) |
@@ -5260,6 +5251,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/22733958?u=e0fa68d4beb06bb4043af7369c81e6cb3460a78d&v=4" alt="" width="40" /> |  |
 | [NonMouse](https://github.com/takeyamayuki/NonMouse) | a webcam-based virtual gesture mouse that is easy to use with hands on the desk. |
+
+    
+
+## [ryosms](https://github.com/ryosms)
+    
+| [@ryosms](https://github.com/ryosms) | [❤️Sponsor](https://github.com/sponsors/ryosms) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/629117?v=4" alt="" width="40" /> |  |
+| [pixela-desktop](https://github.com/ryosms/pixela-desktop) | Awesome desktop client for https:\/\/pixe.la |
 
     
 
@@ -5380,6 +5380,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
+## [kurages](https://github.com/kurages)
+    
+| [@kurages](https://github.com/kurages) | [❤️Sponsor](https://github.com/sponsors/kurages) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/73342826?u=48489ac24b5fa69f6eb08c806164c02241c24dba&v=4" alt="" width="40" /> | 社畜SE\(仮\) 今日も炎上中 |
+| <!-- no item --> | <!-- no description --> |
+
+    
+
 ## [Akihiro Kondo](https://github.com/akkinoc)
     
 | [@akkinoc](https://github.com/akkinoc) | [❤️Sponsor](https://github.com/sponsors/akkinoc) |
@@ -5413,15 +5422,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/44517313?u=b9b9ff3ade8ec26500d7e560e7806a2fb833e0e1&v=4" alt="" width="40" /> | I want to create something interesting! |
 | [TabTabTab](https://github.com/okaryo/TabTabTab) | All In One Chrome Tab Manager |
-
-    
-
-## [kurages](https://github.com/kurages)
-    
-| [@kurages](https://github.com/kurages) | [❤️Sponsor](https://github.com/sponsors/kurages) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/73342826?u=48489ac24b5fa69f6eb08c806164c02241c24dba&v=4" alt="" width="40" /> | 社畜SE\(仮\) 今日も炎上中 |
-| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -5492,7 +5492,7 @@ This repository is a list of GitHub users who are living in Japan and are sponso
     
 | [@ktabata](https://github.com/ktabata) | [❤️Sponsor](https://github.com/sponsors/ktabata) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/2771164?u=42dc3962e791de4af844f639b65d480116cffd70&v=4" alt="" width="40" /> | A computer scientist specializing in software and hardware for parallel computing. The author of Polaris Engine. |
+| <img src="https://avatars.githubusercontent.com/u/2771164?u=ef7de8ee764007c199d76c8eae5533e2ca5d61c9&v=4" alt="" width="40" /> | A computer scientist specializing in software and hardware for low power parallel computing. The author of Polaris Engine, a visual novel creation software. |
 | [suika2](https://github.com/ktabata/suika2) | The first-class development software for visual novel creation in the 2020s and beyond. Also known as "Polaris Engine". |
 
     
@@ -5803,6 +5803,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
+## [Yutaka Kamei](https://github.com/yykamei)
+    
+| [@yykamei](https://github.com/yykamei) | [❤️Sponsor](https://github.com/sponsors/yykamei) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/13130705?u=c91ddc42cdbe8620020f2935052801734da051cf&v=4" alt="" width="40" /> | Someone who learns anything |
+| [thwack](https://github.com/yykamei/thwack) | Command-line version of Go to file utility, similar to the one on GitHub |
+
+    
+
 ## [Kohta Ito](https://github.com/koh110)
     
 | [@koh110](https://github.com/koh110) | [❤️Sponsor](https://github.com/sponsors/koh110) |
@@ -5884,15 +5893,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Yutaka Kamei](https://github.com/yykamei)
-    
-| [@yykamei](https://github.com/yykamei) | [❤️Sponsor](https://github.com/sponsors/yykamei) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/13130705?u=c91ddc42cdbe8620020f2935052801734da051cf&v=4" alt="" width="40" /> | Someone who learns anything |
-| [thwack](https://github.com/yykamei/thwack) | Command-line version of Go to file utility, similar to the one on GitHub |
-
-    
-
 ## [Caio Lins](https://github.com/clins777)
     
 | [@clins777](https://github.com/clins777) | [❤️Sponsor](https://github.com/sponsors/clins777) |
@@ -5920,15 +5920,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Toshihiro Kamiya](https://github.com/tos-kamiya)
-    
-| [@tos-kamiya](https://github.com/tos-kamiya) | [❤️Sponsor](https://github.com/sponsors/tos-kamiya) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/1262286?u=3e49bbb6c4520785949916b0fb3c89222b65e7ec&v=4" alt="" width="40" /> |  |
-| [arlq](https://github.com/tos-kamiya/arlq) | A rogue-like game created as an experiment in developing code and manuals with humans and ChatGPT. |
-
-    
-
 ## [Kazushi Kawamura](https://github.com/kawamurakazushi)
     
 | [@kawamurakazushi](https://github.com/kawamurakazushi) | [❤️Sponsor](https://github.com/sponsors/kawamurakazushi) |
@@ -5944,6 +5935,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/3624075?u=884f08daab0d1876a0f8348026690b98ff0449d4&v=4" alt="" width="40" /> |  |
 | [dotfiles](https://github.com/surume/dotfiles) | dotFiles |
+
+    
+
+## [Toshihiro Kamiya](https://github.com/tos-kamiya)
+    
+| [@tos-kamiya](https://github.com/tos-kamiya) | [❤️Sponsor](https://github.com/sponsors/tos-kamiya) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/1262286?u=3e49bbb6c4520785949916b0fb3c89222b65e7ec&v=4" alt="" width="40" /> |  |
+| [arlq](https://github.com/tos-kamiya/arlq) | A rogue-like game created as an experiment in developing code and manuals with humans and ChatGPT. |
 
     
 
@@ -6271,6 +6271,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
+## [テクニカル諏訪子](https://github.com/TechnicalSuwako)
+    
+| [@TechnicalSuwako](https://github.com/TechnicalSuwako) | [❤️Sponsor](https://github.com/sponsors/TechnicalSuwako) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/15627184?u=a3d18d6773603e809b36e466b2c2974d30584cf0&v=4" alt="" width="40" /> | GitHub垢をあんま使いませんので、https:\/\/gitler.moe\/suwako をご確認下さい。 |
+| [sp](https://github.com/TechnicalSuwako/sp) | シンプルなパスワードマネージャー。このレポジトリはGitlerのミラーである為、PR、イシュー等が未対応です。これはGitlerまでお願い申し上げます。 |
+
+    
+
 ## [koluku](https://github.com/koluku)
     
 | [@koluku](https://github.com/koluku) | [❤️Sponsor](https://github.com/sponsors/koluku) |
@@ -6331,6 +6340,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/13300657?u=9d94b788bce9e65568642a49721be5d7d18b33d7&v=4" alt="" width="40" /> | Liberty🥳 Privacy🤐 Equality😊 |
 | [Zabbigot](https://github.com/HimaJyun/Zabbigot) | Bukkit plugin for Zabbix monitoring. |
+
+    
+
+## [Kimihiro Mori](https://github.com/Alpaca-zip)
+    
+| [@Alpaca-zip](https://github.com/Alpaca-zip) | [❤️Sponsor](https://github.com/sponsors/Alpaca-zip) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/84959376?u=a2d5e8bfebd37e3598cf0efe783b05053ac8ee32&v=4" alt="" width="40" /> | Robotics \/ Drone Engineer. |
+| [ultralytics\_ros](https://github.com/Alpaca-zip/ultralytics_ros) | ROS\/ROS 2 package for Ultralytics YOLOv8 real-time object detection and segmentation. https:\/\/github.com\/ultralytics\/ultralytics |
 
     
 
@@ -6415,15 +6433,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Kimihiro Mori](https://github.com/Alpaca-zip)
-    
-| [@Alpaca-zip](https://github.com/Alpaca-zip) | [❤️Sponsor](https://github.com/sponsors/Alpaca-zip) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/84959376?u=a2d5e8bfebd37e3598cf0efe783b05053ac8ee32&v=4" alt="" width="40" /> | Robotics \/ Drone Engineer. |
-| [ultralytics\_ros](https://github.com/Alpaca-zip/ultralytics_ros) | ROS\/ROS 2 package for Ultralytics YOLOv8 real-time object detection and segmentation. https:\/\/github.com\/ultralytics\/ultralytics |
-
-    
-
 ## [turtton\(watagame\)](https://github.com/turtton)
     
 | [@turtton](https://github.com/turtton) | [❤️Sponsor](https://github.com/sponsors/turtton) |
@@ -6439,15 +6448,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/16752340?u=be4b80ead6b6f5ce8608b44bda0b971fcddf45dc&v=4" alt="" width="40" /> | 👇 |
 | [AppWindowUtility](https://github.com/sator-imaging/AppWindowUtility) | This utility is for Unity to configure application window style. With this utility, you can make your application window transparent, frameless and more. |
-
-    
-
-## [テクニカル諏訪子](https://github.com/TechnicalSuwako)
-    
-| [@TechnicalSuwako](https://github.com/TechnicalSuwako) | [❤️Sponsor](https://github.com/sponsors/TechnicalSuwako) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/15627184?u=a3d18d6773603e809b36e466b2c2974d30584cf0&v=4" alt="" width="40" /> | GitHub垢をあんま使いませんので、https:\/\/gitler.moe\/suwako をご確認下さい。 |
-| [sp](https://github.com/TechnicalSuwako/sp) | シンプルなパスワードマネージャー。このレポジトリはGitlerのミラーである為、PR、イシュー等が未対応です。これはGitlerまでお願い申し上げます。 |
 
     
 
@@ -6604,21 +6604,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Shuichiro MAKIGAKI](https://github.com/shuichiro-makigaki)
-    
-| [@shuichiro-makigaki](https://github.com/shuichiro-makigaki) | [❤️Sponsor](https://github.com/sponsors/shuichiro-makigaki) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/8788139?v=4" alt="" width="40" /> | Give me a cup of coffee, not beer. Ph.D in the hell of bioinformatics and computer science. Sometimes server-side engineer or architect. |
-| [exmachina](https://github.com/shuichiro-makigaki/exmachina) | Sequence aligner for accurate template-based protein structure prediction |
-
-    
-
 ## [Yuichiro Luke Smith](https://github.com/yu-ichiro)
     
 | [@yu-ichiro](https://github.com/yu-ichiro) | [❤️Sponsor](https://github.com/sponsors/yu-ichiro) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/6957492?u=8f795fdf05335b6981b53804ebaf3d3ddc97b76f&v=4" alt="" width="40" /> | Japanese\/American engineer. Pythonist \/ Rustacean \/ TypeScript-er \/ PHPer |
 | [git-id](https://github.com/yu-ichiro/git-id) | An ID manager for git |
+
+    
+
+## [Shuichiro MAKIGAKI](https://github.com/shuichiro-makigaki)
+    
+| [@shuichiro-makigaki](https://github.com/shuichiro-makigaki) | [❤️Sponsor](https://github.com/sponsors/shuichiro-makigaki) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/8788139?v=4" alt="" width="40" /> | Give me a cup of coffee, not beer. Ph.D in the hell of bioinformatics and computer science. Sometimes server-side engineer or architect. |
+| [exmachina](https://github.com/shuichiro-makigaki/exmachina) | Sequence aligner for accurate template-based protein structure prediction |
 
     
 
@@ -6712,21 +6712,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [kra](https://github.com/kra8)
-    
-| [@kra8](https://github.com/kra8) | [❤️Sponsor](https://github.com/sponsors/kra8) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/15030926?u=c1086c9c67c686af27443ce5533dc331e26b792a&v=4" alt="" width="40" /> |  |
-| [laravel-snowflake](https://github.com/kra8/laravel-snowflake) | This Laravel package to generate 64 bit identifier like the snowflake within Twitter. |
-
-    
-
 ## [tkt](https://github.com/tktcorporation)
     
 | [@tktcorporation](https://github.com/tktcorporation) | [❤️Sponsor](https://github.com/sponsors/tktcorporation) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/37575408?u=61cf90946c58ab7979b5176758b1a06513d6c48b&v=4" alt="" width="40" /> |  |
 | [add-issue-links](https://github.com/tkt-actions/add-issue-links) | A GitHub Action for linking a pull request to an issue |
+
+    
+
+## [kra](https://github.com/kra8)
+    
+| [@kra8](https://github.com/kra8) | [❤️Sponsor](https://github.com/sponsors/kra8) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/15030926?u=c1086c9c67c686af27443ce5533dc331e26b792a&v=4" alt="" width="40" /> |  |
+| [laravel-snowflake](https://github.com/kra8/laravel-snowflake) | This Laravel package to generate 64 bit identifier like the snowflake within Twitter. |
 
     
 
@@ -6802,21 +6802,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Taishi Naritomi](https://github.com/taishinaritomi)
-    
-| [@taishinaritomi](https://github.com/taishinaritomi) | [❤️Sponsor](https://github.com/sponsors/taishinaritomi) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/79634025?u=e1b05489264a7c1f224e7705dcbc5243c6e38730&v=4" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [akira](https://github.com/hskwakr)
     
 | [@hskwakr](https://github.com/hskwakr) | [❤️Sponsor](https://github.com/sponsors/hskwakr) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/33633391?u=5fb09e8ce56f9ca783d2fe3519d7c7d0804f67c7&v=4" alt="" width="40" /> |  |
 | [misc](https://github.com/hskwakr/misc) | A place to store miscellaneous stuff to practice and study something. |
+
+    
+
+## [Taishi Naritomi](https://github.com/taishinaritomi)
+    
+| [@taishinaritomi](https://github.com/taishinaritomi) | [❤️Sponsor](https://github.com/sponsors/taishinaritomi) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/79634025?u=e1b05489264a7c1f224e7705dcbc5243c6e38730&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -6871,6 +6871,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/54015295?u=f6218f01b284e23961bddae43b33e540c7748063&v=4" alt="" width="40" /> | I like cars, and sometimes I like code \(but very rarely.\) |
 | [Yukiko](https://github.com/Asthriona/Yukiko) | powerful Discord bot that includes XP system, Leaderboard, Music, Welcome and farewell message, Moderation, and much more! |
+
+    
+
+## [James John McGuire](https://github.com/jamesjohnmcguire)
+    
+| [@jamesjohnmcguire](https://github.com/jamesjohnmcguire) | [❤️Sponsor](https://github.com/sponsors/jamesjohnmcguire) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/10033525?u=88cad663ab7e033f7fb117535a7a28ae9e7567a0&v=4" alt="" width="40" /> |  |
+| [BuildingBlocks](https://github.com/jamesjohnmcguire/BuildingBlocks) | A library for block chain related functionality |
 
     
 
@@ -6964,12 +6973,12 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [James John McGuire](https://github.com/jamesjohnmcguire)
+## [SATO Masatoshi](https://github.com/okomeki)
     
-| [@jamesjohnmcguire](https://github.com/jamesjohnmcguire) | [❤️Sponsor](https://github.com/sponsors/jamesjohnmcguire) |
+| [@okomeki](https://github.com/okomeki) | [❤️Sponsor](https://github.com/sponsors/okomeki) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/10033525?u=88cad663ab7e033f7fb117535a7a28ae9e7567a0&v=4" alt="" width="40" /> |  |
-| [BuildingBlocks](https://github.com/jamesjohnmcguire/BuildingBlocks) | A library for block chain related functionality |
+| <img src="https://avatars.githubusercontent.com/u/21117575?u=714cc07ab30eb48da5c5c24de3244b92018d10c7&v=4" alt="" width="40" /> | 思いつきで奥深くなものをいろいろ作ってる |
+| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -7054,6 +7063,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
+## [Atsushi](https://github.com/nekia)
+    
+| [@nekia](https://github.com/nekia) | [❤️Sponsor](https://github.com/sponsors/nekia) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/799608?v=4" alt="" width="40" /> |  |
+| [blockchain-explorer](https://github.com/nekia/blockchain-explorer) | Read-only mirror of https:\/\/gerrit.hyperledger.org\/r\/\#\/admin\/projects\/blockchain-explorer |
+
+    
+
 ## [Ripandy Adha](https://github.com/ripandy)
     
 | [@ripandy](https://github.com/ripandy) | [❤️Sponsor](https://github.com/sponsors/ripandy) |
@@ -7063,12 +7081,12 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Atsushi](https://github.com/nekia)
+## [急急如律令](https://github.com/kyukyunyorituryo)
     
-| [@nekia](https://github.com/nekia) | [❤️Sponsor](https://github.com/sponsors/nekia) |
+| [@kyukyunyorituryo](https://github.com/kyukyunyorituryo) | [❤️Sponsor](https://github.com/sponsors/kyukyunyorituryo) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/799608?v=4" alt="" width="40" /> |  |
-| [blockchain-explorer](https://github.com/nekia/blockchain-explorer) | Read-only mirror of https:\/\/gerrit.hyperledger.org\/r\/\#\/admin\/projects\/blockchain-explorer |
+| <img src="https://avatars.githubusercontent.com/u/18051339?u=a979729741902cd45add75c04d3ecb24d6dcf666&v=4" alt="" width="40" /> | 主にjavascriptを使った電子書籍に関するものを公開しています。キンドルで電子書籍を出してます。 |
+| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -7081,15 +7099,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [SATO Masatoshi](https://github.com/okomeki)
-    
-| [@okomeki](https://github.com/okomeki) | [❤️Sponsor](https://github.com/sponsors/okomeki) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/21117575?u=714cc07ab30eb48da5c5c24de3244b92018d10c7&v=4" alt="" width="40" /> | 思いつきで奥深くなものをいろいろ作ってる |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Jun Komoda](https://github.com/junkmd)
     
 | [@junkmd](https://github.com/junkmd) | [❤️Sponsor](https://github.com/sponsors/junkmd) |
@@ -7099,20 +7108,11 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Alex Ishida](https://github.com/alexweberk)
-    
-| [@alexweberk](https://github.com/alexweberk) | [❤️Sponsor](https://github.com/sponsors/alexweberk) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/1207522?u=1e4c61ed65aaff6ac33baa356fddde45fef3e8b3&v=4" alt="" width="40" /> | AI \/ ML \/ LLMs \/ Growth  |
-| [playing-with-llms](https://github.com/alexweberk/playing-with-llms) | Some Jupyter and Colab notebooks I used when playing with LLMs |
-
-    
-
 ## [hishitetsu](https://github.com/hishitetsu)
     
 | [@hishitetsu](https://github.com/hishitetsu) | [❤️Sponsor](https://github.com/sponsors/hishitetsu) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/66369541?v=4" alt="" width="40" /> | A contributor on Files, but a Java developer by profession |
+| <img src="https://avatars.githubusercontent.com/u/66369541?u=f5ba60449363b9108c658e162620bc594486ca97&v=4" alt="" width="40" /> | A contributor on Files, but a Java developer by profession |
 | <!-- no item --> | <!-- no description --> |
 
     
@@ -7149,15 +7149,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | [@ioriayane](https://github.com/ioriayane) | [❤️Sponsor](https://github.com/sponsors/ioriayane) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/5165379?v=4" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
-## [急急如律令](https://github.com/kyukyunyorituryo)
-    
-| [@kyukyunyorituryo](https://github.com/kyukyunyorituryo) | [❤️Sponsor](https://github.com/sponsors/kyukyunyorituryo) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/18051339?u=a979729741902cd45add75c04d3ecb24d6dcf666&v=4" alt="" width="40" /> | 主にjavascriptを使った電子書籍に関するものを公開しています。キンドルで電子書籍を出してます。 |
 | <!-- no item --> | <!-- no description --> |
 
     
@@ -7231,6 +7222,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/39993922?u=dd6576c0765c6aa8f30e6c194f81a31f7c7f9ee7&v=4" alt="" width="40" /> |  |
 | [haruu11113.github.io](https://github.com/haruu11113/haruu11113.github.io) | <!-- no description --> |
+
+    
+
+## [Alex Ishida](https://github.com/alexweberk)
+    
+| [@alexweberk](https://github.com/alexweberk) | [❤️Sponsor](https://github.com/sponsors/alexweberk) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/1207522?u=1e4c61ed65aaff6ac33baa356fddde45fef3e8b3&v=4" alt="" width="40" /> | AI \/ ML \/ LLMs \/ Growth  |
+| [playing-with-llms](https://github.com/alexweberk/playing-with-llms) | Some Jupyter and Colab notebooks I used when playing with LLMs |
 
     
 
@@ -7396,15 +7396,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Matt W](https://github.com/mattwsct)
-    
-| [@mattwsct](https://github.com/mattwsct) | [❤️Sponsor](https://github.com/sponsors/mattwsct) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/3883316?u=8acdece4a3c45ef29e90093e78364daaa0cb22b7&v=4" alt="" width="40" /> | Frontend developer from Australia 🇦🇺 |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [sakaguchi](https://github.com/kaburk)
     
 | [@kaburk](https://github.com/kaburk) | [❤️Sponsor](https://github.com/sponsors/kaburk) |
@@ -7428,6 +7419,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | [@nash1111](https://github.com/nash1111) | [❤️Sponsor](https://github.com/sponsors/nash1111) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/35922853?u=06aea28612f0a3ef3246eb889df75bf38542411f&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
+
+    
+
+## [Matt W](https://github.com/mattwsct)
+    
+| [@mattwsct](https://github.com/mattwsct) | [❤️Sponsor](https://github.com/sponsors/mattwsct) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/3883316?u=8acdece4a3c45ef29e90093e78364daaa0cb22b7&v=4" alt="" width="40" /> | Frontend developer from Australia 🇦🇺 |
 | <!-- no item --> | <!-- no description --> |
 
     
@@ -7648,15 +7648,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [blue-jam](https://github.com/blue-jam)
-    
-| [@blue-jam](https://github.com/blue-jam) | [❤️Sponsor](https://github.com/sponsors/blue-jam) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/9583566?u=735ed599bc70e339fee7667859f89495750b3386&v=4" alt="" width="40" /> |  |
-| [competitive-programming-calendar-importer](https://github.com/blue-jam/competitive-programming-calendar-importer) | Google Apps Script to add competitive programming contest schedule to Google Calendar |
-
-    
-
 ## [soya\_daizu](https://github.com/soya-daizu)
     
 | [@soya-daizu](https://github.com/soya-daizu) | [❤️Sponsor](https://github.com/sponsors/soya-daizu) |
@@ -7738,6 +7729,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
+## [blue-jam](https://github.com/blue-jam)
+    
+| [@blue-jam](https://github.com/blue-jam) | [❤️Sponsor](https://github.com/sponsors/blue-jam) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/9583566?u=735ed599bc70e339fee7667859f89495750b3386&v=4" alt="" width="40" /> |  |
+| [competitive-programming-calendar-importer](https://github.com/blue-jam/competitive-programming-calendar-importer) | Google Apps Script to add competitive programming contest schedule to Google Calendar |
+
+    
+
 ## [@shiracamus](https://github.com/shiracamus)
     
 | [@shiracamus](https://github.com/shiracamus) | [❤️Sponsor](https://github.com/sponsors/shiracamus) |
@@ -7774,15 +7774,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [KazukiKuriyama](https://github.com/KazukiKuriyama)
-    
-| [@KazukiKuriyama](https://github.com/KazukiKuriyama) | [❤️Sponsor](https://github.com/sponsors/KazukiKuriyama) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/64897247?u=b70dbb48c2a48ff6f60a43db7178997155260517&v=4" alt="" width="40" /> |  |
-| [unity-webgl-video-ios](https://github.com/KazukiKuriyama/unity-webgl-video-ios) | WebGL's Video feature that also works on iOS |
-
-    
-
 ## [Fumito Ito](https://github.com/fumito-ito)
     
 | [@fumito-ito](https://github.com/fumito-ito) | [❤️Sponsor](https://github.com/sponsors/fumito-ito) |
@@ -7792,21 +7783,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
+## [KazukiKuriyama](https://github.com/KazukiKuriyama)
+    
+| [@KazukiKuriyama](https://github.com/KazukiKuriyama) | [❤️Sponsor](https://github.com/sponsors/KazukiKuriyama) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/64897247?u=b70dbb48c2a48ff6f60a43db7178997155260517&v=4" alt="" width="40" /> |  |
+| [unity-webgl-video-ios](https://github.com/KazukiKuriyama/unity-webgl-video-ios) | WebGL's Video feature that also works on iOS |
+
+    
+
 ## [Yuta Obara](https://github.com/CoreNion)
     
 | [@CoreNion](https://github.com/CoreNion) | [❤️Sponsor](https://github.com/sponsors/CoreNion) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/70258493?u=f72131659c6cd12cac681d94c5434fb7fb7212fa&v=4" alt="" width="40" /> |  |
 | [Leasy](https://github.com/CoreNion/Leasy) | シンプルで扱いやすい暗記帳アプリ。 |
-
-    
-
-## [SHIBAHARA Hiroki](https://github.com/shibomb)
-    
-| [@shibomb](https://github.com/shibomb) | [❤️Sponsor](https://github.com/sponsors/shibomb) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/958471?u=97ee29412e530f9a94a549f61ebfb414ce9541b1&v=4" alt="" width="40" /> | a.k.a shibomb. Programmer and IT Teacher |
-| [super-super-simple-lifegame](https://github.com/shibomb/super-super-simple-lifegame) | a simple and fast template for the Game of Life. |
 
     
 
@@ -7918,6 +7909,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
+## [SHIBAHARA Hiroki](https://github.com/shibomb)
+    
+| [@shibomb](https://github.com/shibomb) | [❤️Sponsor](https://github.com/sponsors/shibomb) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/958471?u=97ee29412e530f9a94a549f61ebfb414ce9541b1&v=4" alt="" width="40" /> | a.k.a shibomb. Programmer and IT Teacher |
+| [super-super-simple-lifegame](https://github.com/shibomb/super-super-simple-lifegame) | a simple and fast template for the Game of Life. |
+
+    
+
 ## [Kento Fukuda](https://github.com/U29)
     
 | [@U29](https://github.com/U29) | [❤️Sponsor](https://github.com/sponsors/U29) |
@@ -7927,21 +7927,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Tanmen](https://github.com/tanmen)
-    
-| [@tanmen](https://github.com/tanmen) | [❤️Sponsor](https://github.com/sponsors/tanmen) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/18521406?u=bad66ea05b70a4648034b2640cbdb0bb2dc2f9df&v=4" alt="" width="40" /> | I'm a beginner in English. I'm sorry if I'm rude. |
-| [react-hook-form](https://github.com/react-hook-form/react-hook-form) | 📋 React Hooks for form state management and validation \(Web + React Native\) |
-
-    
-
 ## [Yla Aioi](https://github.com/Little-Rubyist)
     
 | [@Little-Rubyist](https://github.com/Little-Rubyist) | [❤️Sponsor](https://github.com/sponsors/Little-Rubyist) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/43639533?v=4" alt="" width="40" /> |  |
 | [wacca\_ranking](https://github.com/Little-Rubyist/wacca_ranking) | score manager servise for wacca |
+
+    
+
+## [Tanmen](https://github.com/tanmen)
+    
+| [@tanmen](https://github.com/tanmen) | [❤️Sponsor](https://github.com/sponsors/tanmen) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/18521406?u=bad66ea05b70a4648034b2640cbdb0bb2dc2f9df&v=4" alt="" width="40" /> | I'm a beginner in English. I'm sorry if I'm rude. |
+| [react-hook-form](https://github.com/react-hook-form/react-hook-form) | 📋 React Hooks for form state management and validation \(Web + React Native\) |
 
     
 
@@ -8233,15 +8233,6 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [ARAI Takashi](https://github.com/arai-ta)
-    
-| [@arai-ta](https://github.com/arai-ta) | [❤️Sponsor](https://github.com/sponsors/arai-ta) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/22699542?u=a892e40ab5e3965cde6236835883659811ed79e4&v=4" alt="" width="40" /> | Application developer |
-| [chatwork-cli](https://github.com/arai-ta/chatwork-cli) | Simple cli tool for chatwork API |
-
-    
-
 ## [Nogic](https://github.com/nogic1008)
     
 | [@nogic1008](https://github.com/nogic1008) | [❤️Sponsor](https://github.com/sponsors/nogic1008) |
@@ -8347,6 +8338,15 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/50815029?u=22d60202d665974fa7a1d113a45bcb723d6ac9b8&v=4" alt="" width="40" /> | Front-end Developer 👩🏻‍💻 |
 | [free-case-converter](https://github.com/chocolat5/free-case-converter) | Online Free Case Converter Tool - UPPERCASE, lowercase, Capitalize Case, Title Case |
+
+    
+
+## [ARAI Takashi](https://github.com/arai-ta)
+    
+| [@arai-ta](https://github.com/arai-ta) | [❤️Sponsor](https://github.com/sponsors/arai-ta) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/22699542?u=a892e40ab5e3965cde6236835883659811ed79e4&v=4" alt="" width="40" /> | Application developer |
+| [chatwork-cli](https://github.com/arai-ta/chatwork-cli) | Simple cli tool for chatwork API |
 
     
 
@@ -8467,21 +8467,21 @@ This repository is a list of GitHub users who are living in Japan and are sponso
 
     
 
-## [Zoltan Varadi](https://github.com/varadiz)
-    
-| [@varadiz](https://github.com/varadiz) | [❤️Sponsor](https://github.com/sponsors/varadiz) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/14939326?u=d63a2faa4a82a546ebc3338943813bcb00ba54e5&v=4" alt="" width="40" /> |  |
-| [bq2slack-github-action](https://github.com/data-i-consulting/bq2slack-github-action) | Send slack notification with BQ results |
-
-    
-
 ## [yassun7010](https://github.com/yassun7010)
     
 | [@yassun7010](https://github.com/yassun7010) | [❤️Sponsor](https://github.com/sponsors/yassun7010) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/47286750?u=c214e5c241363f11f8bdfed18668d87b383be019&v=4" alt="" width="40" /> |  |
 | <!-- no item --> | <!-- no description --> |
+
+    
+
+## [Zoltan Varadi](https://github.com/varadiz)
+    
+| [@varadiz](https://github.com/varadiz) | [❤️Sponsor](https://github.com/sponsors/varadiz) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/14939326?u=d63a2faa4a82a546ebc3338943813bcb00ba54e5&v=4" alt="" width="40" /> |  |
+| [bq2slack-github-action](https://github.com/data-i-consulting/bq2slack-github-action) | Send slack notification with BQ results |
 
     
 
