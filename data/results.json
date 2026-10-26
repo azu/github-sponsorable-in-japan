@@ -1391,25 +1391,6 @@
     }
   },
   {
-    "login": "motemen",
-    "name": "Hironao OTSUBO",
-    "url": "https://github.com/motemen",
-    "location": "Kyoto, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/8465?v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "gore",
-            "description": "  Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.",
-            "url": "https://github.com/x-motemen/gore"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "ota-meshi",
     "name": "Yosuke Ota",
     "url": "https://github.com/ota-meshi",
@@ -1423,6 +1404,25 @@
             "name": "eslint-plugin-vue",
             "description": "Official ESLint plugin for Vue.js",
             "url": "https://github.com/vuejs/eslint-plugin-vue"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "motemen",
+    "name": "Hironao OTSUBO",
+    "url": "https://github.com/motemen",
+    "location": "Kyoto, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8465?v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "gore",
+            "description": "  Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.",
+            "url": "https://github.com/x-motemen/gore"
           }
         }
       ]
@@ -1627,7 +1627,7 @@
     "url": "https://github.com/yutkat",
     "location": "Tokyo, Japan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4",
-    "bio": "Role: Programmer / Editor: Neovim / Shell: zsh / Terminal: WezTerm / OS: NixOS, ArchLinux(Hyprland), Android / PC:Thinkpad, Lemur Pro, HHKB Hybrid , GameBall",
+    "bio": "Role: Programmer / Editor: Neovim / Shell: zsh, nushell / AI Agent: Codex, ClaudeCode / Terminal: WezTerm / OS: NixOS, ArchLinux(Hyprland)",
     "pinnedItems": {
       "edges": []
     }
@@ -2693,6 +2693,25 @@
     }
   },
   {
+    "login": "SakiTakamachi",
+    "name": "Saki Takamachi",
+    "url": "https://github.com/SakiTakamachi",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34942839?u=2a6ce047d019f78d6fa936d0f84520b497f1a474&v=4",
+    "bio": "An engineer, a singer and a karate holder. Mainly maintain ext/pdo and ext/bcmath. PHP8.4 release manager",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "xsse",
+            "description": "A collection of macros and inline functions that map SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX and AVX2 instructions to NEON, making SIMD code easier to port. Support for floating-point operations is not yet implemented.",
+            "url": "https://github.com/SakiTakamachi/xsse"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "Naturalclar",
     "name": "Jesse Katsumata",
     "url": "https://github.com/Naturalclar",
@@ -2725,25 +2744,6 @@
             "name": "KawaiiPhysics",
             "description": "KawaiiPhysics : Simple Bone Physics for UnrealEngine 4 & 5",
             "url": "https://github.com/pafuhana1213/KawaiiPhysics"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "SakiTakamachi",
-    "name": "Saki Takamachi",
-    "url": "https://github.com/SakiTakamachi",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/34942839?u=2a6ce047d019f78d6fa936d0f84520b497f1a474&v=4",
-    "bio": "An engineer, a singer and a karate holder. Mainly maintain ext/pdo and ext/bcmath. PHP8.4 release manager",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "xsse",
-            "description": "A collection of macros and inline functions that map SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX and AVX2 instructions to NEON, making SIMD code easier to port. Support for floating-point operations is not yet implemented.",
-            "url": "https://github.com/SakiTakamachi/xsse"
           }
         }
       ]
@@ -3098,6 +3098,17 @@
     }
   },
   {
+    "login": "Cloudef",
+    "name": "Jari Vetoniemi",
+    "url": "https://github.com/Cloudef",
+    "location": "Tokyo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/480330?u=87e81761815ebfbc8e0cbf612f1afa3a011316e2&v=4",
+    "bio": "Available for contract work⠀   ⠀  ⠀  ⠀  ⠀      ⠀ 委託契約書の機会を探しています   \r\nSaatavilla konsulttina",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
     "login": "shogo82148",
     "name": "ICHINOSE Shogo",
     "url": "https://github.com/shogo82148",
@@ -3114,17 +3125,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "login": "Cloudef",
-    "name": "Jari Vetoniemi",
-    "url": "https://github.com/Cloudef",
-    "location": "Tokyo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/480330?u=87e81761815ebfbc8e0cbf612f1afa3a011316e2&v=4",
-    "bio": "Available for contract work⠀   ⠀  ⠀  ⠀  ⠀      ⠀ 委託契約書の機会を探しています   \r\nSaatavilla konsulttina",
-    "pinnedItems": {
-      "edges": []
     }
   },
   {
@@ -3606,25 +3606,6 @@
     }
   },
   {
-    "login": "cxxxr",
-    "name": "cxxxr",
-    "url": "https://github.com/cxxxr",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/13656378?u=184c029089a7535cc390909d6fe72a6660e3d423&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "lem",
-            "description": "General-purpose editor/IDE with high expansibility in Common Lisp",
-            "url": "https://github.com/lem-project/lem"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "yamahigashi",
     "name": "Takayoshi Matsumoto",
     "url": "https://github.com/yamahigashi",
@@ -3638,6 +3619,25 @@
             "name": "MayaSceneKit",
             "description": "maya-scene-kit is a standalone GUI / CLI / Python module for working with Maya scene files (.mb / .ma) without requiring a Maya runtime.",
             "url": "https://github.com/yamahigashi/MayaSceneKit"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "cxxxr",
+    "name": "cxxxr",
+    "url": "https://github.com/cxxxr",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13656378?u=184c029089a7535cc390909d6fe72a6660e3d423&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "lem",
+            "description": "General-purpose editor/IDE with high expansibility in Common Lisp",
+            "url": "https://github.com/lem-project/lem"
           }
         }
       ]
@@ -3750,17 +3750,6 @@
     }
   },
   {
-    "login": "cdepillabout",
-    "name": "Dennis Gosnell",
-    "url": "https://github.com/cdepillabout",
-    "location": "Sapporo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/64804?v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "Pitu",
     "name": "Kana",
     "url": "https://github.com/Pitu",
@@ -3777,6 +3766,17 @@
           }
         }
       ]
+    }
+  },
+  {
+    "login": "cdepillabout",
+    "name": "Dennis Gosnell",
+    "url": "https://github.com/cdepillabout",
+    "location": "Sapporo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64804?v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": []
     }
   },
   {
@@ -3832,6 +3832,25 @@
     }
   },
   {
+    "login": "kexi",
+    "name": "Kei Nakayama",
+    "url": "https://github.com/kexi",
+    "location": "Chiba, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/350671?u=5f1550c21d0609f2c89ef22e46203782e7564d01&v=4",
+    "bio": "Software Creator",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "vscode-uiflow",
+            "description": "An extension for VS Code which provides support for the uiflow. ",
+            "url": "https://github.com/kexi/vscode-uiflow"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "bannzai",
     "name": "bannzai",
     "url": "https://github.com/bannzai",
@@ -3870,25 +3889,6 @@
     "bio": "電脳ケロちゃん / Founder of Sterra Security Co.,Ltd. / Black Hat EUROPE 2021-2022 Arsenal / Black Hat USA 2020-2021 Arsenal / Metasploit GSoC 2017",
     "pinnedItems": {
       "edges": []
-    }
-  },
-  {
-    "login": "kexi",
-    "name": "Kei Nakayama",
-    "url": "https://github.com/kexi",
-    "location": "Chiba, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/350671?u=5f1550c21d0609f2c89ef22e46203782e7564d01&v=4",
-    "bio": "Software Creator",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "vscode-uiflow",
-            "description": "An extension for VS Code which provides support for the uiflow. ",
-            "url": "https://github.com/kexi/vscode-uiflow"
-          }
-        }
-      ]
     }
   },
   {
@@ -4039,25 +4039,6 @@
     }
   },
   {
-    "login": "norio-nomura",
-    "name": "Norio NOMURA",
-    "url": "https://github.com/norio-nomura",
-    "location": "Anjo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/33430?v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "SwiftLint",
-            "description": "A tool to enforce Swift style and conventions.",
-            "url": "https://github.com/realm/SwiftLint"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "iebb",
     "name": "ieb",
     "url": "https://github.com/iebb",
@@ -4071,6 +4052,25 @@
             "name": "NekokoLPA",
             "description": "Open-source LPA Software for Android and iOS",
             "url": "https://github.com/iebb/NekokoLPA"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "norio-nomura",
+    "name": "Norio NOMURA",
+    "url": "https://github.com/norio-nomura",
+    "location": "Anjo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33430?v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "SwiftLint",
+            "description": "A tool to enforce Swift style and conventions.",
+            "url": "https://github.com/realm/SwiftLint"
           }
         }
       ]
@@ -4550,6 +4550,25 @@
     }
   },
   {
+    "login": "yhara",
+    "name": "Yutaka HARA",
+    "url": "https://github.com/yhara",
+    "location": "Matsue, JAPAN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12285?v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "shiika",
+            "description": "A statically-typed programming language",
+            "url": "https://github.com/shiika-lang/shiika"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "takuya-takeuchi",
     "name": "Takuya Takeuchi",
     "url": "https://github.com/takuya-takeuchi",
@@ -4582,25 +4601,6 @@
             "name": "BEAR.Sunday",
             "description": "A resource-oriented application framework",
             "url": "https://github.com/bearsunday/BEAR.Sunday"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "yhara",
-    "name": "Yutaka HARA",
-    "url": "https://github.com/yhara",
-    "location": "Matsue, JAPAN",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/12285?v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "shiika",
-            "description": "A statically-typed programming language",
-            "url": "https://github.com/shiika-lang/shiika"
           }
         }
       ]
@@ -4715,9 +4715,9 @@
       "edges": [
         {
           "node": {
-            "name": "konoha",
-            "description": "🌿 An easy-to-use Japanese Text Processing tool, which makes it possible to switch tokenizers with small changes of code.",
-            "url": "https://github.com/himkt/konoha"
+            "name": "cafleet",
+            "description": "🛰️ Coding Agent Fleet (cafleet) is a coding agent orchestrator for multi-agents collaboration across coding agent providers",
+            "url": "https://github.com/himkt/cafleet"
           }
         }
       ]
@@ -4743,22 +4743,22 @@
     }
   },
   {
-    "login": "hako-mikan",
-    "name": null,
-    "url": "https://github.com/hako-mikan",
+    "login": "treefrogframework",
+    "name": "TreeFrog Framework",
+    "url": "https://github.com/treefrogframework",
     "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122196982?u=2050085ba8fb451611c22b0570d1b22c41715aef&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2995876?v=4",
     "bio": "",
     "pinnedItems": {
       "edges": []
     }
   },
   {
-    "login": "treefrogframework",
-    "name": "TreeFrog Framework",
-    "url": "https://github.com/treefrogframework",
+    "login": "hako-mikan",
+    "name": null,
+    "url": "https://github.com/hako-mikan",
     "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/2995876?v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122196982?u=2050085ba8fb451611c22b0570d1b22c41715aef&v=4",
     "bio": "",
     "pinnedItems": {
       "edges": []
@@ -4784,25 +4784,6 @@
     }
   },
   {
-    "login": "lindwurm",
-    "name": "hota",
-    "url": "https://github.com/lindwurm",
-    "location": "Fukuoka, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1874549?u=85892571bc77bc199723b278f5b238daffc79771&v=4",
-    "bio": "Server management guy at @akane-blue ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "madoka",
-            "description": "カスタムROMビルド用マネージャースクリプト",
-            "url": "https://github.com/lindwurm/madoka"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "s1204IT",
     "name": "Syuugo",
     "url": "https://github.com/s1204IT",
@@ -4816,6 +4797,25 @@
             "name": "Dhizuku",
             "description": "A tool that can share DeviceOwner permissions to other application.",
             "url": "https://github.com/iamr0s/Dhizuku"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "lindwurm",
+    "name": "hota",
+    "url": "https://github.com/lindwurm",
+    "location": "Fukuoka, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1874549?u=85892571bc77bc199723b278f5b238daffc79771&v=4",
+    "bio": "Server management guy at @akane-blue ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "madoka",
+            "description": "カスタムROMビルド用マネージャースクリプト",
+            "url": "https://github.com/lindwurm/madoka"
           }
         }
       ]
@@ -4909,6 +4909,25 @@
     }
   },
   {
+    "login": "taichi-ishitani",
+    "name": "Taichi Ishitani",
+    "url": "https://github.com/taichi-ishitani",
+    "location": "Kanagawa, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2922232?u=648ee3e34653db857c3a854da78977131370ab7c&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "rggen",
+            "description": "Code generation tool for control and status registers",
+            "url": "https://github.com/rggen/rggen"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "miurahr",
     "name": "Hiroshi Miura",
     "url": "https://github.com/miurahr",
@@ -4955,25 +4974,6 @@
     "bio": "",
     "pinnedItems": {
       "edges": []
-    }
-  },
-  {
-    "login": "taichi-ishitani",
-    "name": "Taichi Ishitani",
-    "url": "https://github.com/taichi-ishitani",
-    "location": "Kanagawa, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/2922232?u=648ee3e34653db857c3a854da78977131370ab7c&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "rggen",
-            "description": "Code generation tool for control and status registers",
-            "url": "https://github.com/rggen/rggen"
-          }
-        }
-      ]
     }
   },
   {
@@ -5075,25 +5075,6 @@
     }
   },
   {
-    "login": "leaysgur",
-    "name": "Yuji Sugiura",
-    "url": "https://github.com/leaysgur",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/6259812?u=28e36fb88a7aca1a00b81e335f4e83203a306599&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "oxc",
-            "description": "⚓ A collection of high-performance JavaScript tools.",
-            "url": "https://github.com/oxc-project/oxc"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "winebarrel",
     "name": "Genki Sugawara",
     "url": "https://github.com/winebarrel",
@@ -5132,19 +5113,19 @@
     }
   },
   {
-    "login": "liquidz",
-    "name": "Iizuka Masashi",
-    "url": "https://github.com/liquidz",
-    "location": "Tokyo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/6941?u=e9bc08021e734a14d123fd978e561774dcdba2c2&v=4",
+    "login": "leaysgur",
+    "name": "Yuji Sugiura",
+    "url": "https://github.com/leaysgur",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6259812?u=28e36fb88a7aca1a00b81e335f4e83203a306599&v=4",
     "bio": "",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "elin",
-            "description": "A Clojure development environment for Vim/Neovim and more!, primarily written in Babashka.",
-            "url": "https://github.com/liquidz/elin"
+            "name": "oxc",
+            "description": "⚓ A collection of high-performance JavaScript tools.",
+            "url": "https://github.com/oxc-project/oxc"
           }
         }
       ]
@@ -5183,6 +5164,25 @@
             "name": "japanese.js",
             "description": "Util collection for Japanese text processing. Hiraganize, Katakanize, and Romanize.",
             "url": "https://github.com/hakatashi/japanese.js"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "liquidz",
+    "name": "Iizuka Masashi",
+    "url": "https://github.com/liquidz",
+    "location": "Tokyo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6941?u=e9bc08021e734a14d123fd978e561774dcdba2c2&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "elin",
+            "description": "A Clojure development environment for Vim/Neovim and more!, primarily written in Babashka.",
+            "url": "https://github.com/liquidz/elin"
           }
         }
       ]
@@ -5515,25 +5515,6 @@
     }
   },
   {
-    "login": "long-910",
-    "name": "Small Long",
-    "url": "https://github.com/long-910",
-    "location": "Japan/Tokyo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/7323488?u=f51c5862699fcee2b3d7e1a7c6718bf38a5011d2&v=4",
-    "bio": "C|EH Master / Embedded Software Engineer",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "dotfiles",
-            "description": null,
-            "url": "https://github.com/long-910/dotfiles"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "mogaming217",
     "name": "moga",
     "url": "https://github.com/mogaming217",
@@ -5561,6 +5542,25 @@
     "bio": "Ruby committer",
     "pinnedItems": {
       "edges": []
+    }
+  },
+  {
+    "login": "long-910",
+    "name": "Small Long",
+    "url": "https://github.com/long-910",
+    "location": "Japan/Tokyo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7323488?u=f51c5862699fcee2b3d7e1a7c6718bf38a5011d2&v=4",
+    "bio": "C|EH Master / Embedded Software Engineer",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "dotfiles",
+            "description": null,
+            "url": "https://github.com/long-910/dotfiles"
+          }
+        }
+      ]
     }
   },
   {
@@ -5874,25 +5874,6 @@
     }
   },
   {
-    "login": "Nuzair46",
-    "name": "Red",
-    "url": "https://github.com/Nuzair46",
-    "location": "Tokyo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/38219313?u=370a0509d67180c9cd62f3b5092cfad25d4e2145&v=4",
-    "bio": "Ruby on Rails, Open Source, @rubyconfig maintainer\r\n",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "ruby",
-            "description": "The Ruby Programming Language",
-            "url": "https://github.com/ruby/ruby"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "davidmhewitt",
     "name": "David Hewitt",
     "url": "https://github.com/davidmhewitt",
@@ -5906,6 +5887,25 @@
             "name": "torrential",
             "description": "A simple torrent client for elementary OS",
             "url": "https://github.com/davidmhewitt/torrential"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "Nuzair46",
+    "name": "Red",
+    "url": "https://github.com/Nuzair46",
+    "location": "Tokyo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38219313?u=370a0509d67180c9cd62f3b5092cfad25d4e2145&v=4",
+    "bio": "Ruby on Rails, Open Source, @rubyconfig maintainer\r\n",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "ruby",
+            "description": "The Ruby Programming Language",
+            "url": "https://github.com/ruby/ruby"
           }
         }
       ]
@@ -6048,25 +6048,6 @@
     }
   },
   {
-    "login": "wanasit",
-    "name": "Wanasit Tanakitrungruang",
-    "url": "https://github.com/wanasit",
-    "location": "Tokyo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1537162?v=4",
-    "bio": "A full-time software engineer with an interest in NLP, ML, and text processing.\r\n(The projects' ideas and coding styles are mines, not my employer's.)",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "chrono",
-            "description": "A natural language date parser in Javascript",
-            "url": "https://github.com/wanasit/chrono"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "swsoyee",
     "name": "InfinityLoop",
     "url": "https://github.com/swsoyee",
@@ -6086,6 +6067,25 @@
     }
   },
   {
+    "login": "wanasit",
+    "name": "Wanasit Tanakitrungruang",
+    "url": "https://github.com/wanasit",
+    "location": "Tokyo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1537162?v=4",
+    "bio": "A full-time software engineer with an interest in NLP, ML, and text processing.\r\n(The projects' ideas and coding styles are mines, not my employer's.)",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "chrono",
+            "description": "A natural language date parser in Javascript",
+            "url": "https://github.com/wanasit/chrono"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "torounit",
     "name": "Hiroshi Urabe",
     "url": "https://github.com/torounit",
@@ -6099,6 +6099,25 @@
             "name": "custom-post-type-permalinks",
             "description": "Edit the permalink of custom post type !",
             "url": "https://github.com/torounit/custom-post-type-permalinks"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "shimizukawa",
+    "name": "Takayuki SHIMIZUKAWA",
+    "url": "https://github.com/shimizukawa",
+    "location": "Tokyo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151623?v=4",
+    "bio": "sphinx-doc co-maintainer\r\nBooks author/translator in Japan\r\nPyCon JP Association accounting board member",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "shimizukawa.github.com",
+            "description": null,
+            "url": "https://github.com/shimizukawa/shimizukawa.github.com"
           }
         }
       ]
@@ -6132,25 +6151,6 @@
     "bio": "😓",
     "pinnedItems": {
       "edges": []
-    }
-  },
-  {
-    "login": "shimizukawa",
-    "name": "Takayuki SHIMIZUKAWA",
-    "url": "https://github.com/shimizukawa",
-    "location": "Tokyo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/151623?v=4",
-    "bio": "sphinx-doc co-maintainer\r\nBooks author/translator in Japan\r\nPyCon JP Association accounting board member",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "shimizukawa.github.com",
-            "description": null,
-            "url": "https://github.com/shimizukawa/shimizukawa.github.com"
-          }
-        }
-      ]
     }
   },
   {
@@ -6211,25 +6211,6 @@
     }
   },
   {
-    "login": "tamaina",
-    "name": "tamaina",
-    "url": "https://github.com/tamaina",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/7973572?u=6673bb4edc4c357f3a5f66fe220ef72175624235&v=4",
-    "bio": "a.k.a aqz",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "misskey",
-            "description": "🌎 A completely free and open interplanetary-microblogging platform 🚀",
-            "url": "https://github.com/misskey-dev/misskey"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "ncaq",
     "name": null,
     "url": "https://github.com/ncaq",
@@ -6254,6 +6235,25 @@
             "name": "sezan92.github.io",
             "description": null,
             "url": "https://github.com/sezan92/sezan92.github.io"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "tamaina",
+    "name": "tamaina",
+    "url": "https://github.com/tamaina",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7973572?u=6673bb4edc4c357f3a5f66fe220ef72175624235&v=4",
+    "bio": "a.k.a aqz",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "misskey",
+            "description": "🌎 A completely free and open interplanetary-microblogging platform 🚀",
+            "url": "https://github.com/misskey-dev/misskey"
           }
         }
       ]
@@ -6611,17 +6611,6 @@
     }
   },
   {
-    "login": "athos",
-    "name": "Shogo Ohta",
-    "url": "https://github.com/athos",
-    "location": "Tsukuba, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/27441?v=4",
-    "bio": "Clojure(Script) dev",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "yohasebe",
     "name": "Yoichiro Hasebe",
     "url": "https://github.com/yohasebe",
@@ -6638,6 +6627,17 @@
           }
         }
       ]
+    }
+  },
+  {
+    "login": "athos",
+    "name": "Shogo Ohta",
+    "url": "https://github.com/athos",
+    "location": "Tsukuba, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/27441?v=4",
+    "bio": "Clojure(Script) dev",
+    "pinnedItems": {
+      "edges": []
     }
   },
   {
@@ -6765,9 +6765,9 @@
       "edges": [
         {
           "node": {
-            "name": "nudiflorum",
-            "description": "browser extension to display absolute date and time in GitHub.",
-            "url": "https://github.com/myakura/nudiflorum"
+            "name": "cleome",
+            "description": "Dynamic unicode-range WOFF2 slicer and @font-face CSS generator for Japanese, Korean, and Chinese web fonts",
+            "url": "https://github.com/myakura/cleome"
           }
         }
       ]
@@ -6853,6 +6853,17 @@
     }
   },
   {
+    "login": "hukusuke1007",
+    "name": "shohei",
+    "url": "https://github.com/hukusuke1007",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29278033?u=60898e64252ab2936bcf812eb3ff46549e262f61&v=4",
+    "bio": "Never Inc. CEO & Engineer\r\nFlutter / iOS / Android / Next.js / Firebase / Supabase",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
     "login": "yukukotani",
     "name": "Yuku Kotani",
     "url": "https://github.com/yukukotani",
@@ -6869,17 +6880,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "login": "hukusuke1007",
-    "name": "shohei",
-    "url": "https://github.com/hukusuke1007",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/29278033?u=60898e64252ab2936bcf812eb3ff46549e262f61&v=4",
-    "bio": "Never Inc. CEO & Engineer\r\nFlutter / iOS / Android / Next.js / Firebase / Supabase",
-    "pinnedItems": {
-      "edges": []
     }
   },
   {
@@ -6978,6 +6978,25 @@
     }
   },
   {
+    "login": "minoki",
+    "name": "ARATA Mizuki",
+    "url": "https://github.com/minoki",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106557?u=7efc4db8f14f62b600d7dcf1c8c85ab82735f939&v=4",
+    "bio": "a Haskell enthusiast, a GHC contributor, the author of LunarML",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "LunarML",
+            "description": "The Standard ML compiler that produces Lua/JavaScript",
+            "url": "https://github.com/minoki/LunarML"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "Narazaka",
     "name": "Narazaka",
     "url": "https://github.com/Narazaka",
@@ -7029,25 +7048,6 @@
             "name": "cl-mcp",
             "description": null,
             "url": "https://github.com/cl-ai-project/cl-mcp"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "minoki",
-    "name": "ARATA Mizuki",
-    "url": "https://github.com/minoki",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106557?u=7efc4db8f14f62b600d7dcf1c8c85ab82735f939&v=4",
-    "bio": "a Haskell enthusiast, a GHC contributor, the author of LunarML",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "LunarML",
-            "description": "The Standard ML compiler that produces Lua/JavaScript",
-            "url": "https://github.com/minoki/LunarML"
           }
         }
       ]
@@ -7209,6 +7209,25 @@
     }
   },
   {
+    "login": "laminne",
+    "name": "Tatsuto YAMAMOTO",
+    "url": "https://github.com/laminne",
+    "location": "Kyoto, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40442980?u=8de76466f78992ee03199211131f2848a2aec66e&v=4",
+    "bio": "Software developer at Kyoto",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "pulsate",
+            "description": "Easy-to-change, faster, developer friendly next generation decentralized social media.",
+            "url": "https://github.com/pulsate-dev/pulsate"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "naichilab",
     "name": "naichi",
     "url": "https://github.com/naichilab",
@@ -7342,25 +7361,6 @@
     }
   },
   {
-    "login": "friendbear",
-    "name": "T Kumagai",
-    "url": "https://github.com/friendbear",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/4956799?v=4",
-    "bio": "💧Love☕️/Gadget/Programming Rust, Scala, Java, C++, C, Basic, etc...\r\nSecond account: @github-friendbear  ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "RockScalaForAdvanced",
-            "description": "Rock Advanced For Scala",
-            "url": "https://github.com/friendbear/RockScalaForAdvanced"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "drumath2237",
     "name": "にー兄さん / Kaito Tsutsumi",
     "url": "https://github.com/drumath2237",
@@ -7393,6 +7393,25 @@
             "name": "chibivite",
             "description": "An online guidebook to implement minimal Vite from scratch",
             "url": "https://github.com/nozomuikuta/chibivite"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "friendbear",
+    "name": "T Kumagai",
+    "url": "https://github.com/friendbear",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4956799?v=4",
+    "bio": "💧Love☕️/Gadget/Programming Rust, Scala, Java, C++, C, Basic, etc...\r\nSecond account: @github-friendbear  ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "RockScalaForAdvanced",
+            "description": "Rock Advanced For Scala",
+            "url": "https://github.com/friendbear/RockScalaForAdvanced"
           }
         }
       ]
@@ -7549,25 +7568,6 @@
     }
   },
   {
-    "login": "anoyetta",
-    "name": "anoyetta",
-    "url": "https://github.com/anoyetta",
-    "location": "Tokyo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/8295826?u=91f84abd1bc59580d05c492e924bbf631548f733&v=4",
-    "bio": "​I wanna be a developer of ​FFXIV​ ​Add-on​!",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "ACT.Hojoring",
-            "description": "Advanced Combat Tracker の FFXIV向けプラグインです。トリガ、TTSの拡張、HUDの拡張など。",
-            "url": "https://github.com/anoyetta/ACT.Hojoring"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "p1atdev",
     "name": "Plat",
     "url": "https://github.com/p1atdev",
@@ -7581,6 +7581,25 @@
             "name": "sd-danbooru-tags-upsampler",
             "description": "Makes the prompts for generating anime images more detailed by upsampling Danbooru tags.",
             "url": "https://github.com/p1atdev/sd-danbooru-tags-upsampler"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "anoyetta",
+    "name": "anoyetta",
+    "url": "https://github.com/anoyetta",
+    "location": "Tokyo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8295826?u=91f84abd1bc59580d05c492e924bbf631548f733&v=4",
+    "bio": "​I wanna be a developer of ​FFXIV​ ​Add-on​!",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "ACT.Hojoring",
+            "description": "Advanced Combat Tracker の FFXIV向けプラグインです。トリガ、TTSの拡張、HUDの拡張など。",
+            "url": "https://github.com/anoyetta/ACT.Hojoring"
           }
         }
       ]
@@ -7666,25 +7685,6 @@
     }
   },
   {
-    "login": "Rongmario",
-    "name": "Rongmario",
-    "url": "https://github.com/Rongmario",
-    "location": "Taiwan, Japan, England, depends.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3684700?u=73dd8f23b12b70d780aeab93b329258603328f72&v=4",
-    "bio": "Christian.\r\nProgrammer.\r\nTranslator.\r\n⠀ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\r\nCo-Founder of @CleanroomMC, driving force of Minecraft 1.12.2.\r\n",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "LoliASM",
-            "description": "The lolis are now preparing to bytecode manipulate your game.",
-            "url": "https://github.com/LoliKingdom/LoliASM"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "InkoHX",
     "name": null,
     "url": "https://github.com/InkoHX",
@@ -7734,6 +7734,17 @@
     }
   },
   {
+    "login": "yoheikikuta",
+    "name": "Yohei Kikuta",
+    "url": "https://github.com/yoheikikuta",
+    "location": "Tokyo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14804123?u=2b9d45668bddf1d26c19345f3ea90c784c35bf13&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
     "login": "shuuji3",
     "name": "TAKAHASHI Shuuji",
     "url": "https://github.com/shuuji3",
@@ -7753,14 +7764,22 @@
     }
   },
   {
-    "login": "yoheikikuta",
-    "name": "Yohei Kikuta",
-    "url": "https://github.com/yoheikikuta",
-    "location": "Tokyo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/14804123?u=2b9d45668bddf1d26c19345f3ea90c784c35bf13&v=4",
-    "bio": "",
+    "login": "Rongmario",
+    "name": "Rongmario",
+    "url": "https://github.com/Rongmario",
+    "location": "Taiwan, Japan, England, depends.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3684700?u=73dd8f23b12b70d780aeab93b329258603328f72&v=4",
+    "bio": "Christian.\r\nProgrammer.\r\nTranslator.\r\n⠀ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\r\nCo-Founder of @CleanroomMC, driving force of Minecraft 1.12.2.\r\n",
     "pinnedItems": {
-      "edges": []
+      "edges": [
+        {
+          "node": {
+            "name": "LoliASM",
+            "description": "The lolis are now preparing to bytecode manipulate your game.",
+            "url": "https://github.com/LoliKingdom/LoliASM"
+          }
+        }
+      ]
     }
   },
   {
@@ -8704,9 +8723,9 @@
       "edges": [
         {
           "node": {
-            "name": "mcp-duckdb-memory-server",
-            "description": "MCP Memory Server with DuckDB backend",
-            "url": "https://github.com/IzumiSy/mcp-duckdb-memory-server"
+            "name": "kyrage",
+            "description": "A minimal, database-agnostic, schema-based declarative migration tool for Node.js ecosystem",
+            "url": "https://github.com/IzumiSy/kyrage"
           }
         }
       ]
@@ -8745,6 +8764,25 @@
             "name": "os",
             "description": "The OS build system",
             "url": "https://github.com/elementary/os"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "piroz",
+    "name": "Hiroshi Murakami",
+    "url": "https://github.com/piroz",
+    "location": "Osaka, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8933647?u=d19b9928461a63aeb5d175e249a5bee188176a56&v=4",
+    "bio": "I am a software engineer in Osaka, Japan. I love visiting old temples and shrines.\r\nI love ramen.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "piroz",
+            "description": "Config files for my GitHub profile.",
+            "url": "https://github.com/piroz/piroz"
           }
         }
       ]
@@ -8857,25 +8895,6 @@
     }
   },
   {
-    "login": "piroz",
-    "name": "Hiroshi Murakami",
-    "url": "https://github.com/piroz",
-    "location": "Osaka, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/8933647?u=d19b9928461a63aeb5d175e249a5bee188176a56&v=4",
-    "bio": "I am a software engineer in Osaka, Japan. I love visiting old temples and shrines.\r\nI love ramen.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "piroz",
-            "description": "Config files for my GitHub profile.",
-            "url": "https://github.com/piroz/piroz"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "hanakla",
     "name": "Hanakla",
     "url": "https://github.com/hanakla",
@@ -8952,6 +8971,25 @@
     }
   },
   {
+    "login": "mikkame",
+    "name": "mikkame",
+    "url": "https://github.com/mikkame",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13947046?v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Effekseer",
+            "description": null,
+            "url": "https://github.com/effekseer/Effekseer"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "kohii",
     "name": "kohii",
     "url": "https://github.com/kohii",
@@ -8984,25 +9022,6 @@
             "name": "Resume",
             "description": "スキルシート（職務経歴書）",
             "url": "https://github.com/riscait/Resume"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "mikkame",
-    "name": "mikkame",
-    "url": "https://github.com/mikkame",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/13947046?v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Effekseer",
-            "description": null,
-            "url": "https://github.com/effekseer/Effekseer"
           }
         }
       ]
@@ -9218,6 +9237,17 @@
     }
   },
   {
+    "login": "azihsoyn",
+    "name": "Naoya Yoshizawa",
+    "url": "https://github.com/azihsoyn",
+    "location": "Yokohama, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1225998?u=ad3ab713e0050cb751fcf9f42736b915f9992e2b&v=4",
+    "bio": "https://rehash.fm",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
     "login": "fummicc1",
     "name": "Fumiya Tanaka",
     "url": "https://github.com/fummicc1",
@@ -9237,36 +9267,6 @@
     }
   },
   {
-    "login": "BonyChops",
-    "name": "BonyChops",
-    "url": "https://github.com/BonyChops",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/52094083?u=e9364f790581b269afdf07400dd1bcfd458109fd&v=4",
-    "bio": "Web developer.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Game-Console-Activity-to-Discord",
-            "description": "Share your ACTUAL game console activity on Discord!",
-            "url": "https://github.com/BonyChops/Game-Console-Activity-to-Discord"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "azihsoyn",
-    "name": "Naoya Yoshizawa",
-    "url": "https://github.com/azihsoyn",
-    "location": "Yokohama, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1225998?u=ad3ab713e0050cb751fcf9f42736b915f9992e2b&v=4",
-    "bio": "https://rehash.fm",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "MtkN1",
     "name": "Kent Matsuura",
     "url": "https://github.com/MtkN1",
@@ -9280,6 +9280,25 @@
             "name": "pybotters",
             "description": "An advanced API client for python bot traderes.",
             "url": "https://github.com/pybotters/pybotters"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "BonyChops",
+    "name": "BonyChops",
+    "url": "https://github.com/BonyChops",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52094083?u=e9364f790581b269afdf07400dd1bcfd458109fd&v=4",
+    "bio": "Web developer.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Game-Console-Activity-to-Discord",
+            "description": "Share your ACTUAL game console activity on Discord!",
+            "url": "https://github.com/BonyChops/Game-Console-Activity-to-Discord"
           }
         }
       ]
@@ -9362,25 +9381,6 @@
     }
   },
   {
-    "login": "ryo33",
-    "name": "Ryo Hirayama",
-    "url": "https://github.com/ryo33",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/8780513?u=cf3b85180f4c879c6da2c4eab44869121f0ab350&v=4",
-    "bio": "Coding like playing @Hihaheho",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "mry",
-            "description": "A simple mocking library for structs, traits, and function.",
-            "url": "https://github.com/ryo33/mry"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "KATO-Hiro",
     "name": "Kato, H.",
     "url": "https://github.com/KATO-Hiro",
@@ -9394,6 +9394,25 @@
             "name": "AtCoderClans",
             "description": "【非公式】AtCoderがもっと楽しくなるリンク集です。有志による非公式サービス・ツール・ライブラリ・記事などをまとめています。",
             "url": "https://github.com/KATO-Hiro/AtCoderClans"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "ryo33",
+    "name": "Ryo Hirayama",
+    "url": "https://github.com/ryo33",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8780513?u=cf3b85180f4c879c6da2c4eab44869121f0ab350&v=4",
+    "bio": "Coding like playing @Hihaheho",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "mry",
+            "description": "A simple mocking library for structs, traits, and function.",
+            "url": "https://github.com/ryo33/mry"
           }
         }
       ]
@@ -9451,6 +9470,25 @@
             "name": "Aodaruma-AviUtl-Script",
             "description": "AviUtl scripts developed by Aodaruma",
             "url": "https://github.com/Aodaruma/Aodaruma-AviUtl-Script"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "orangekame3",
+    "name": "Takafumi Miyanaga",
+    "url": "https://github.com/orangekame3",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49517624?u=1f74fc6df5663c9b9989fbeb80aeaed58594e71c&v=4",
+    "bio": " maintainer of @oqtopus-team ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "oqtopus-cloud",
+            "description": "Open Quantum Toolchain for OPerators & USers (OQTOPUS) is a project that provides the architecture of cloud quantum computers as an open-source software (OSS).",
+            "url": "https://github.com/oqtopus-team/oqtopus-cloud"
           }
         }
       ]
@@ -9558,25 +9596,6 @@
     }
   },
   {
-    "login": "orangekame3",
-    "name": "Takafumi Miyanaga",
-    "url": "https://github.com/orangekame3",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/49517624?u=1f74fc6df5663c9b9989fbeb80aeaed58594e71c&v=4",
-    "bio": " maintainer of @oqtopus-team ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "oqtopus-cloud",
-            "description": "Open Quantum Toolchain for OPerators & USers (OQTOPUS) is a project that provides the architecture of cloud quantum computers as an open-source software (OSS).",
-            "url": "https://github.com/oqtopus-team/oqtopus-cloud"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "nnsnodnb",
     "name": "Yuya Oka",
     "url": "https://github.com/nnsnodnb",
@@ -9675,25 +9694,6 @@
     }
   },
   {
-    "login": "calmery",
-    "name": "Calmery",
-    "url": "https://github.com/calmery",
-    "location": "Tokyo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/12670155?u=f4b471a23fb8c597bc8522c267ad280bf82369cb&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "camera.calmery.moe",
-            "description": null,
-            "url": "https://github.com/calmery/camera.calmery.moe"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "ybiquitous",
     "name": "Masafumi Koba",
     "url": "https://github.com/ybiquitous",
@@ -9707,6 +9707,25 @@
             "name": "stylelint",
             "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
             "url": "https://github.com/stylelint/stylelint"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "calmery",
+    "name": "Calmery",
+    "url": "https://github.com/calmery",
+    "location": "Tokyo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12670155?u=f4b471a23fb8c597bc8522c267ad280bf82369cb&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "camera.calmery.moe",
+            "description": null,
+            "url": "https://github.com/calmery/camera.calmery.moe"
           }
         }
       ]
@@ -10001,6 +10020,25 @@
     }
   },
   {
+    "login": "yksr-melt",
+    "name": "雪代 / Yukishiro",
+    "url": "https://github.com/yksr-melt",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182478812?u=dd69063ccc2da0ce4eb0c7a39d7fa3ca26aa48cf&v=4",
+    "bio": "nu!!!",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Meltype",
+            "description": "雪解けのように、半角/全角の壁を溶かす日本語入力。",
+            "url": "https://github.com/yksr-melt/Meltype"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "JeongJaeSoon",
     "name": "JaeSoon (jason)",
     "url": "https://github.com/JeongJaeSoon",
@@ -10028,25 +10066,6 @@
     "bio": "",
     "pinnedItems": {
       "edges": []
-    }
-  },
-  {
-    "login": "januswel",
-    "name": "Takagi Kensuke",
-    "url": "https://github.com/januswel",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/43239?u=f658c3fc8ceafa66c504ef07f990ad8041ded70a&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "dotfiles",
-            "description": "software setting files",
-            "url": "https://github.com/januswel/dotfiles"
-          }
-        }
-      ]
     }
   },
   {
@@ -10107,6 +10126,25 @@
     }
   },
   {
+    "login": "januswel",
+    "name": "Takagi Kensuke",
+    "url": "https://github.com/januswel",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43239?u=f658c3fc8ceafa66c504ef07f990ad8041ded70a&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "dotfiles",
+            "description": "software setting files",
+            "url": "https://github.com/januswel/dotfiles"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "misohena",
     "name": "AKIYAMA Kouhei",
     "url": "https://github.com/misohena",
@@ -10123,6 +10161,17 @@
           }
         }
       ]
+    }
+  },
+  {
+    "login": "kododake",
+    "name": "kododake",
+    "url": "https://github.com/kododake",
+    "location": "日本 Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80098041?u=7f349003d6febf90bab862668e6c2bd1dcd792ee&v=4",
+    "bio": "うち、ポケットWi-Fiなのん",
+    "pinnedItems": {
+      "edges": []
     }
   },
   {
@@ -10145,17 +10194,6 @@
     }
   },
   {
-    "login": "kododake",
-    "name": "kododake",
-    "url": "https://github.com/kododake",
-    "location": "日本 Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80098041?u=7f349003d6febf90bab862668e6c2bd1dcd792ee&v=4",
-    "bio": "うち、ポケットWi-Fiなのん",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "Laica-Lunasys",
     "name": "Laica Lunasys",
     "url": "https://github.com/Laica-Lunasys",
@@ -10169,25 +10207,6 @@
             "name": "dotfiles",
             "description": "My settings & Initializer....",
             "url": "https://github.com/Laica-Lunasys/dotfiles"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "yksr-melt",
-    "name": "雪代 / Yukishiro",
-    "url": "https://github.com/yksr-melt",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182478812?u=dd69063ccc2da0ce4eb0c7a39d7fa3ca26aa48cf&v=4",
-    "bio": "nu!!!",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "meltty",
-            "description": null,
-            "url": "https://github.com/yksr-melt/meltty"
           }
         }
       ]
@@ -10420,6 +10439,25 @@
     }
   },
   {
+    "login": "hiroaki-com",
+    "name": "hiroaki-com",
+    "url": "https://github.com/hiroaki-com",
+    "location": "Sapporo Hokkaido Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92197575?u=cf0845c541cd078eaef383752423fd73da42b480&v=4",
+    "bio": "Independent Software Developer",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "hkdocs",
+            "description": "A personal knowledge base that consolidates a tech blog, work notes, and a diary. ",
+            "url": "https://github.com/hiroaki-com/hkdocs"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "riaf",
     "name": "Keisuke SATO",
     "url": "https://github.com/riaf",
@@ -10471,25 +10509,6 @@
             "name": "cmux",
             "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
             "url": "https://github.com/manaflow-ai/cmux"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "hiroaki-com",
-    "name": "hiroaki-com",
-    "url": "https://github.com/hiroaki-com",
-    "location": "Sapporo Hokkaido Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92197575?u=cf0845c541cd078eaef383752423fd73da42b480&v=4",
-    "bio": "Independent Software Developer",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "hkdocs",
-            "description": "A personal knowledge base that consolidates a tech blog, work notes, and a diary. ",
-            "url": "https://github.com/hiroaki-com/hkdocs"
           }
         }
       ]
@@ -10787,6 +10806,25 @@
     }
   },
   {
+    "login": "takaishi",
+    "name": "Ryo Takaishi",
+    "url": "https://github.com/takaishi",
+    "location": "Tokyo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107187?v=4",
+    "bio": "Software Enginner",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "tfclean",
+            "description": "tfclean is tool to remove applied moved block, import block, etc",
+            "url": "https://github.com/takaishi/tfclean"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "kphrx",
     "name": "kPherox",
     "url": "https://github.com/kphrx",
@@ -10912,25 +10950,6 @@
     }
   },
   {
-    "login": "takaishi",
-    "name": "Ryo Takaishi",
-    "url": "https://github.com/takaishi",
-    "location": "Tokyo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/107187?v=4",
-    "bio": "Software Enginner",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "tfclean",
-            "description": "tfclean is tool to remove applied moved block, import block, etc",
-            "url": "https://github.com/takaishi/tfclean"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "takanory",
     "name": "Takanori Suzuki",
     "url": "https://github.com/takanory",
@@ -10988,6 +11007,17 @@
     }
   },
   {
+    "login": "JamBalaya56562",
+    "name": "Jam Balaya",
+    "url": "https://github.com/JamBalaya56562",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88115388?u=665c0ef4652dbb06ba0cfd64e7aec5fb343c85ce&v=4",
+    "bio": "Shogi and Mahjong Player♟️🀄",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
     "login": "xpadev-net",
     "name": "XPA",
     "url": "https://github.com/xpadev-net",
@@ -11013,17 +11043,6 @@
     "location": "Yokohama, Japan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/117617?v=4",
     "bio": "Unity/ iOS/ Android app developer, SET (Software Engineer in Test)",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
-    "login": "JamBalaya56562",
-    "name": "Jam Balaya",
-    "url": "https://github.com/JamBalaya56562",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88115388?u=665c0ef4652dbb06ba0cfd64e7aec5fb343c85ce&v=4",
-    "bio": "Shogi and Mahjong Player♟️🀄",
     "pinnedItems": {
       "edges": []
     }
@@ -11105,25 +11124,6 @@
     }
   },
   {
-    "login": "ymd65536",
-    "name": "Kento.Yamada",
-    "url": "https://github.com/ymd65536",
-    "location": "Tokyo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/15119783?u=fe912f7ac2854004bb4f5005bc1a4026f1e11676&v=4",
-    "bio": "Multi-Cloud Backend Engineer , Cloud Architecture , DevSecOps , Agentic Operations",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "vue-handson",
-            "description": "vueの練習、簡単なアプリ作成",
-            "url": "https://github.com/ymd65536/vue-handson"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "basyura",
     "name": "basyura",
     "url": "https://github.com/basyura",
@@ -11137,6 +11137,25 @@
             "name": "TweetVim",
             "description": "twitter client for vim",
             "url": "https://github.com/basyura/TweetVim"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "ymd65536",
+    "name": "Kento.Yamada",
+    "url": "https://github.com/ymd65536",
+    "location": "Tokyo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15119783?u=fe912f7ac2854004bb4f5005bc1a4026f1e11676&v=4",
+    "bio": "Multi-Cloud Backend Engineer , Cloud Architecture , DevSecOps , Agentic Operations",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "vue-handson",
+            "description": "vueの練習、簡単なアプリ作成",
+            "url": "https://github.com/ymd65536/vue-handson"
           }
         }
       ]
@@ -11200,6 +11219,25 @@
     }
   },
   {
+    "login": "yukikurage",
+    "name": "ゆきくらげ",
+    "url": "https://github.com/yukikurage",
+    "location": "japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55534323?u=88ee5c95a7919aae3d5453c2255b42bfa4528ba9&v=4",
+    "bio": "くらげです / PL theory & reactive programming / Jelly · Katari · Quon / 曲とイラスト",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "purescript-jelly",
+            "description": null,
+            "url": "https://github.com/yukikurage/purescript-jelly"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "v9938",
     "name": "v9938",
     "url": "https://github.com/v9938",
@@ -11216,17 +11254,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "login": "sonatard",
-    "name": "sonatard",
-    "url": "https://github.com/sonatard",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1586910?u=a55afe04467991530d0e152ded35a2359b973f5e&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": []
     }
   },
   {
@@ -11290,25 +11317,6 @@
     }
   },
   {
-    "login": "yukikurage",
-    "name": "ゆきくらげ",
-    "url": "https://github.com/yukikurage",
-    "location": "japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/55534323?u=88ee5c95a7919aae3d5453c2255b42bfa4528ba9&v=4",
-    "bio": "くらげです / PL theory & reactive programming / Jelly · Katari · Quon / 曲とイラスト",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "purescript-jelly",
-            "description": null,
-            "url": "https://github.com/yukikurage/purescript-jelly"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "yoshikawa",
     "name": "よしかわたいき",
     "url": "https://github.com/yoshikawa",
@@ -11341,6 +11349,36 @@
             "name": "gogh",
             "description": "Gogh is a tool to manage GitHub repositories efficiently, inspired by `ghq`",
             "url": "https://github.com/kyoh86/gogh"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "sonatard",
+    "name": "sonatard",
+    "url": "https://github.com/sonatard",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1586910?u=a55afe04467991530d0e152ded35a2359b973f5e&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
+    "login": "ishi720",
+    "name": "ishi720",
+    "url": "https://github.com/ishi720",
+    "location": "Tokyo/Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26811527?u=3d0035fd8607c101791d50a715f77702907414f4&v=4",
+    "bio": "フロントとバックエンドが得意なフルスタックエンジニアです。",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "portfolio",
+            "description": "ishi720のポートフォリオ",
+            "url": "https://github.com/ishi720/portfolio"
           }
         }
       ]
@@ -11445,25 +11483,6 @@
     }
   },
   {
-    "login": "ishi720",
-    "name": "ishi720",
-    "url": "https://github.com/ishi720",
-    "location": "Tokyo/Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26811527?u=3d0035fd8607c101791d50a715f77702907414f4&v=4",
-    "bio": "フロントとバックエンドが得意なフルスタックエンジニアです。",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "portfolio",
-            "description": "ishi720のポートフォリオ",
-            "url": "https://github.com/ishi720/portfolio"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "ras0q",
     "name": "Ras",
     "url": "https://github.com/ras0q",
@@ -11477,6 +11496,25 @@
             "name": "cute",
             "description": "Cute: A CLI tool that exeCUTEs commands from markdown files — also works as a zsh/fish plugin.",
             "url": "https://github.com/ras0q/cute"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "eunos-1128",
+    "name": "UENO, M.",
+    "url": "https://github.com/eunos-1128",
+    "location": "Tokyo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21062531?u=4c51bcd51dfe231c7459f69e470e228841fc98fa&v=4",
+    "bio": "FLOSS hobbyist 👾 \r\n",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "fish-kernel",
+            "description": "A fish kernel for Jupyter",
+            "url": "https://github.com/eunos-1128/fish-kernel"
           }
         }
       ]
@@ -11627,25 +11665,6 @@
     }
   },
   {
-    "login": "eunos-1128",
-    "name": "UENO, M.",
-    "url": "https://github.com/eunos-1128",
-    "location": "Tokyo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/21062531?u=4c51bcd51dfe231c7459f69e470e228841fc98fa&v=4",
-    "bio": "FLOSS hobbyist 👾 \r\n",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "fish-kernel",
-            "description": "A fish kernel for Jupyter",
-            "url": "https://github.com/eunos-1128/fish-kernel"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "raa0121",
     "name": "raa0121",
     "url": "https://github.com/raa0121",
@@ -11681,6 +11700,17 @@
           }
         }
       ]
+    }
+  },
+  {
+    "login": "nanashi8",
+    "name": "Yuichi Nakamura",
+    "url": "https://github.com/nanashi8",
+    "location": "Tsukuba, Ibaraki, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167261778?u=e35f5b999c194e0865298e01e57d89a167819c1c&v=4",
+    "bio": "Office staff & surveying technician | CAD, VBA, QGIS | Developing an educational app for my side job at a tutoring school. “I set the fire—everyone, put it out.",
+    "pinnedItems": {
+      "edges": []
     }
   },
   {
@@ -11779,17 +11809,6 @@
     }
   },
   {
-    "login": "nanashi8",
-    "name": "Yuichi Nakamura",
-    "url": "https://github.com/nanashi8",
-    "location": "Tsukuba, Ibaraki, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/167261778?u=e35f5b999c194e0865298e01e57d89a167819c1c&v=4",
-    "bio": "Office staff & surveying technician | CAD, VBA, QGIS | Developing an educational app for my side job at a tutoring school. “I set the fire—everyone, put it out.",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "135yshr",
     "name": "135yshr",
     "url": "https://github.com/135yshr",
@@ -11822,25 +11841,6 @@
             "name": "mac-auto-setup",
             "description": "Auto setup system for macOS.",
             "url": "https://github.com/AkkeyLab/mac-auto-setup"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "horiuchi",
-    "name": "Horiuchi Hiroki",
-    "url": "https://github.com/horiuchi",
-    "location": "Yokohama, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/32570?v=4",
-    "bio": "I'm a programmer.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "dtsgenerator",
-            "description": "TypeScript d.ts file generate from JSON Schema file",
-            "url": "https://github.com/horiuchi/dtsgenerator"
           }
         }
       ]
@@ -12023,6 +12023,25 @@
             "name": "0505Keitan.github.io",
             "description": "0505Keitan's personal portfolio",
             "url": "https://github.com/0505Keitan/0505Keitan.github.io"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "horiuchi",
+    "name": "Horiuchi Hiroki",
+    "url": "https://github.com/horiuchi",
+    "location": "Yokohama, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32570?v=4",
+    "bio": "I'm a programmer.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "dtsgenerator",
+            "description": "TypeScript d.ts file generate from JSON Schema file",
+            "url": "https://github.com/horiuchi/dtsgenerator"
           }
         }
       ]
@@ -12225,6 +12244,25 @@
     }
   },
   {
+    "login": "lapla-cogito",
+    "name": "lapla",
+    "url": "https://github.com/lapla-cogito",
+    "location": "Tsukuba, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39644970?u=a0f9577da9712a553d6ba549e816c159635a8b55&v=4",
+    "bio": "Master's student at University of Tsukuba / GSoC '25&'26 @rust-lang / Rust hacker 🦀",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "rust",
+            "description": "Empowering everyone to build reliable and efficient software.",
+            "url": "https://github.com/rust-lang/rust"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "tuananhhedspibk",
     "name": "Tran Tuan Anh",
     "url": "https://github.com/tuananhhedspibk",
@@ -12244,25 +12282,6 @@
     }
   },
   {
-    "login": "kagikn",
-    "name": "kagikn",
-    "url": "https://github.com/kagikn",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/9353978?v=4",
-    "bio": "The maintainer of ScriptHookVDotNet. If you want to donate to me via Paypal, donate by my email (Paypal donation buttons are disabled for people in Japan).",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "scripthookvdotnet",
-            "description": "An ASI plugin for Grand Theft Auto V, which allows running scripts written in any .NET language on the .NET Framework runtime in-game.",
-            "url": "https://github.com/scripthookvdotnet/scripthookvdotnet"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "yukieiji",
     "name": "yukieji",
     "url": "https://github.com/yukieiji",
@@ -12276,6 +12295,25 @@
             "name": "ExtremeRoles",
             "description": "AmongUs Mod for Advanced User(Add +100 roles, +1300 options, and Cosmic addon)",
             "url": "https://github.com/yukieiji/ExtremeRoles"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "kagikn",
+    "name": "kagikn",
+    "url": "https://github.com/kagikn",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9353978?v=4",
+    "bio": "The maintainer of ScriptHookVDotNet. If you want to donate to me via Paypal, donate by my email (Paypal donation buttons are disabled for people in Japan).",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "scripthookvdotnet",
+            "description": "An ASI plugin for Grand Theft Auto V, which allows running scripts written in any .NET language on the .NET Framework runtime in-game.",
+            "url": "https://github.com/scripthookvdotnet/scripthookvdotnet"
           }
         }
       ]
@@ -12347,25 +12385,6 @@
     "bio": "",
     "pinnedItems": {
       "edges": []
-    }
-  },
-  {
-    "login": "lapla-cogito",
-    "name": "lapla",
-    "url": "https://github.com/lapla-cogito",
-    "location": "Tsukuba, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/39644970?u=a0f9577da9712a553d6ba549e816c159635a8b55&v=4",
-    "bio": "Master's student at University of Tsukuba / GSoC '25&'26 @rust-lang / Rust hacker 🦀",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "rust",
-            "description": "Empowering everyone to build reliable and efficient software.",
-            "url": "https://github.com/rust-lang/rust"
-          }
-        }
-      ]
     }
   },
   {
@@ -12600,17 +12619,6 @@
     }
   },
   {
-    "login": "scepter914",
-    "name": "Satoshi Tanaka",
-    "url": "https://github.com/scepter914",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16330533?u=a0f52e033c3aeec80b96e9961d43b2ad391c449c&v=4",
-    "bio": "Software engineer for robotics and computer vision",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "ryysud",
     "name": "Ryuma Yoshida",
     "url": "https://github.com/ryysud",
@@ -12627,6 +12635,36 @@
           }
         }
       ]
+    }
+  },
+  {
+    "login": "korosuke613",
+    "name": "Futa HIRAKOBA",
+    "url": "https://github.com/korosuke613",
+    "location": "Tokyo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20027695?u=5ac502f607e31e06c869763d2667bc3c3dc0ecb0&v=4",
+    "bio": "Engineering Productivity at Cybozu Inc.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "homepage-2nd",
+            "description": "@korosuke613 のホムペ（2代目）",
+            "url": "https://github.com/korosuke613/homepage-2nd"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "scepter914",
+    "name": "Satoshi Tanaka",
+    "url": "https://github.com/scepter914",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16330533?u=a0f52e033c3aeec80b96e9961d43b2ad391c449c&v=4",
+    "bio": "Software engineer for robotics and computer vision",
+    "pinnedItems": {
+      "edges": []
     }
   },
   {
@@ -12725,6 +12763,25 @@
     }
   },
   {
+    "login": "mtanda",
+    "name": "Mitsuhiro Tanda",
+    "url": "https://github.com/mtanda",
+    "location": "Tokyo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224552?u=4cf3845e720b2ccd6a37dc8a3f103537e879da39&v=4",
+    "bio": "Staff Developer Advocate at @grafana",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "grafana",
+            "description": "Grafana - A Graphite & InfluxDB Dashboard and Graph Editor",
+            "url": "https://github.com/mtanda/grafana"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "hisashin",
     "name": "Shingo Hisakawa",
     "url": "https://github.com/hisashin",
@@ -12776,25 +12833,6 @@
             "name": "giselle",
             "description": "Giselle: AI App Builder. Open Source.",
             "url": "https://github.com/giselles-ai/giselle"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "korosuke613",
-    "name": "Futa HIRAKOBA",
-    "url": "https://github.com/korosuke613",
-    "location": "Tokyo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/20027695?u=5ac502f607e31e06c869763d2667bc3c3dc0ecb0&v=4",
-    "bio": "Engineering Productivity at Cybozu Inc.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "homepage-2nd",
-            "description": "@korosuke613 のホムペ（2代目）",
-            "url": "https://github.com/korosuke613/homepage-2nd"
           }
         }
       ]
@@ -12869,25 +12907,6 @@
     }
   },
   {
-    "login": "mtanda",
-    "name": "Mitsuhiro Tanda",
-    "url": "https://github.com/mtanda",
-    "location": "Tokyo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/224552?u=4cf3845e720b2ccd6a37dc8a3f103537e879da39&v=4",
-    "bio": "Staff Developer Advocate at @grafana",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "grafana",
-            "description": "Grafana - A Graphite & InfluxDB Dashboard and Graph Editor",
-            "url": "https://github.com/mtanda/grafana"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "t-hishinuma",
     "name": "Toshiaki Hishinuma",
     "url": "https://github.com/t-hishinuma",
@@ -12920,25 +12939,6 @@
             "name": "dotfiles",
             "description": "🛠️ My dotfiles",
             "url": "https://github.com/nozomi-koborinai/dotfiles"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "tkuchiki",
-    "name": null,
-    "url": "https://github.com/tkuchiki",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/2740807?u=b079290d367036450b2f689062ef3891a6b21f3d&v=4",
-    "bio": "SRE Tech Lead\r\n\r\nShell Script / Go\r\n",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "alp",
-            "description": "Access Log Profiler",
-            "url": "https://github.com/tkuchiki/alp"
           }
         }
       ]
@@ -13129,6 +13129,25 @@
             "name": "redmine_gtt",
             "description": "Plugin that adds spatial capabilities to Redmine",
             "url": "https://github.com/gtt-project/redmine_gtt"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "tkuchiki",
+    "name": null,
+    "url": "https://github.com/tkuchiki",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2740807?u=b079290d367036450b2f689062ef3891a6b21f3d&v=4",
+    "bio": "SRE Tech Lead\r\n\r\nShell Script / Go\r\n",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "alp",
+            "description": "Access Log Profiler",
+            "url": "https://github.com/tkuchiki/alp"
           }
         }
       ]
@@ -13613,25 +13632,6 @@
     }
   },
   {
-    "login": "oikon48",
-    "name": "Oikon",
-    "url": "https://github.com/oikon48",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/38171341?u=67d1ad3b811b8641ff839e0581d4a1959f8ecc40&v=4",
-    "bio": "Software Engineer in Japan.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "claudecode-book",
-            "description": "書籍『Claude Code実践入門［生成AI深掘りガイド］』のハンズオン資材",
-            "url": "https://github.com/oikon48/claudecode-book"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "gabriel-vasile",
     "name": "Gabriel Vasile",
     "url": "https://github.com/gabriel-vasile",
@@ -13645,6 +13645,25 @@
             "name": "mimetype",
             "description": "A Go package for media type and file extension detection, based on magic numbers",
             "url": "https://github.com/gabriel-vasile/mimetype"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "oikon48",
+    "name": "Oikon",
+    "url": "https://github.com/oikon48",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38171341?u=67d1ad3b811b8641ff839e0581d4a1959f8ecc40&v=4",
+    "bio": "Software Engineer in Japan.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "claudecode-book",
+            "description": "書籍『Claude Code実践入門［生成AI深掘りガイド］』のハンズオン資材",
+            "url": "https://github.com/oikon48/claudecode-book"
           }
         }
       ]
@@ -13740,6 +13759,25 @@
             "name": "SBPAsyncImage",
             "description": "Backport of SwiftUI.AsyncImage to iOS 14, macOS 11, tvOS 14 and watchOS 7 and earlier.",
             "url": "https://github.com/yutailang0119/SBPAsyncImage"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "kajisho5",
+    "name": "Shogo Kajiyama",
+    "url": "https://github.com/kajisho5",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20648875?u=6512a31648142ea1ecf545f4e8c1470a394352dc&v=4",
+    "bio": "Video / Audio / Streaming Engineer\r\nBuilding tools for real-world event production.\r\nAI × FFmpeg × Automation",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "ffmpeg-skill",
+            "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+            "url": "https://github.com/kajisho5/ffmpeg-skill"
           }
         }
       ]
@@ -13925,25 +13963,6 @@
             "name": "disaster-quadcopter-sound-source-localization-with-pyroomacoustics",
             "description": "master's research",
             "url": "https://github.com/masachika-kamada/disaster-quadcopter-sound-source-localization-with-pyroomacoustics"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "kajisho5",
-    "name": "Shogo Kajiyama",
-    "url": "https://github.com/kajisho5",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/20648875?u=6512a31648142ea1ecf545f4e8c1470a394352dc&v=4",
-    "bio": "Video / Audio / Streaming Engineer\r\nBuilding tools for real-world event production.\r\nAI × FFmpeg × Automation",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "voicebooth",
-            "description": null,
-            "url": "https://github.com/kajisho5/voicebooth"
           }
         }
       ]
@@ -14151,25 +14170,6 @@
     }
   },
   {
-    "login": "yamamo2shun1",
-    "name": "Shunichi Yamamoto",
-    "url": "https://github.com/yamamo2shun1",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96638?u=480c1c97742ea0397b93c9255d6cdfd320d7a26d&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "JUMBLEQ",
-            "description": "JUMBLEQ is a faderless 2ch digital audio mixer",
-            "url": "https://github.com/yamamo2shun1/JUMBLEQ"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "Cosmicoppai",
     "name": "Cosmic Oppai",
     "url": "https://github.com/Cosmicoppai",
@@ -14297,6 +14297,25 @@
             "name": "bootstrap-utilities-cheatsheet",
             "description": "Bootstrap Utilities Cheat Sheet",
             "url": "https://github.com/jay-es/bootstrap-utilities-cheatsheet"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "yamamo2shun1",
+    "name": "Shunichi Yamamoto",
+    "url": "https://github.com/yamamo2shun1",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96638?u=480c1c97742ea0397b93c9255d6cdfd320d7a26d&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "JUMBLEQ",
+            "description": "JUMBLEQ is a faderless 2ch digital audio mixer",
+            "url": "https://github.com/yamamo2shun1/JUMBLEQ"
           }
         }
       ]
@@ -14754,25 +14773,6 @@
     }
   },
   {
-    "login": "skkzsh",
-    "name": "skkzsh",
-    "url": "https://github.com/skkzsh",
-    "location": "Tokyo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1439870?u=c97dbd8231faada65f6588ec2b06b6f93bb393cf&v=4",
-    "bio": "Backend and infrastructure engineer with a background in mathematics and computer science. Interested in container, CI/CD and developer experience.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "llm-notebook",
-            "description": "Jupyter Notebook about LLM",
-            "url": "https://github.com/skkzsh/llm-notebook"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "No767",
     "name": "Noelle Wang",
     "url": "https://github.com/No767",
@@ -14786,6 +14786,25 @@
             "name": "Kumiko",
             "description": "A personal multipurpose discord bot built with freedom and choice in mind",
             "url": "https://github.com/No767/Kumiko"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "skkzsh",
+    "name": "skkzsh",
+    "url": "https://github.com/skkzsh",
+    "location": "Tokyo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1439870?u=c97dbd8231faada65f6588ec2b06b6f93bb393cf&v=4",
+    "bio": "Backend and infrastructure engineer with a background in mathematics and computer science. Interested in container, CI/CD and developer experience.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "llm-notebook",
+            "description": "Jupyter Notebook about LLM",
+            "url": "https://github.com/skkzsh/llm-notebook"
           }
         }
       ]
@@ -14824,25 +14843,6 @@
             "name": "envar",
             "description": "This is a command-line tool that automatically switches values of environment variables based on the current directory path.",
             "url": "https://github.com/kakkun61/envar"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "canta-9142",
-    "name": "Kanta Imai",
-    "url": "https://github.com/canta-9142",
-    "location": "3-8 Gakuen Higashimachi, Nishi Ward, Kobe City, Hyogo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/161188313?u=5748ddd9455c46fc1b6311d4f6ccedd3a2130a97&v=4",
-    "bio": "I'm an electronics student interested in analog circuit, embedded systems, Linux(especially NixOS), web, and AI.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "floating-gate",
-            "description": "The mirror repo of Floating-Gate.com source, https://forgejo.floating-gate.com/jinji/floating-gate",
-            "url": "https://github.com/canta-9142/floating-gate"
           }
         }
       ]
@@ -15025,6 +15025,25 @@
             "name": "AppWindowUtility",
             "description": "This utility is for Unity to configure application window style. With this utility, you can make your application window transparent, frameless and more.",
             "url": "https://github.com/sator-imaging/AppWindowUtility"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "canta-9142",
+    "name": "Kanta Imai",
+    "url": "https://github.com/canta-9142",
+    "location": "3-8 Gakuen Higashimachi, Nishi Ward, Kobe City, Hyogo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161188313?u=5748ddd9455c46fc1b6311d4f6ccedd3a2130a97&v=4",
+    "bio": "I'm an electronics student interested in analog circuit, embedded systems, Linux(especially NixOS), web, and AI.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "floating-gate",
+            "description": "The mirror repo of Floating-Gate.com source, https://forgejo.floating-gate.com/jinji/floating-gate",
+            "url": "https://github.com/canta-9142/floating-gate"
           }
         }
       ]
@@ -15265,14 +15284,22 @@
     }
   },
   {
-    "login": "mazgi",
-    "name": "Hidenori \"Hide\" Matsuki",
-    "url": "https://github.com/mazgi",
-    "location": "Virtual Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194222?u=25a704a6969d10bfdd7bcb98af90f1cd01d9b28d&v=4",
-    "bio": "An ordinary IT developer wannabe.\r\nDear colleagues! Please chat to my alias: mazgi.",
+    "login": "denkiwakame",
+    "name": "Mai Nishimura",
+    "url": "https://github.com/denkiwakame",
+    "location": "Tokyo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1871262?u=9528765b6604c42166aaed9159405e89af6f4163&v=4",
+    "bio": "Ph.D., Computer Vision, GPGPU(CUDA), Web Applications, Vim",
     "pinnedItems": {
-      "edges": []
+      "edges": [
+        {
+          "node": {
+            "name": "arxiv2notion",
+            "description": "Chrome extension for clipping arXiv articles to Notion.",
+            "url": "https://github.com/denkiwakame/arxiv2notion"
+          }
+        }
+      ]
     }
   },
   {
@@ -15292,6 +15319,17 @@
           }
         }
       ]
+    }
+  },
+  {
+    "login": "mazgi",
+    "name": "Hidenori \"Hide\" Matsuki",
+    "url": "https://github.com/mazgi",
+    "location": "Virtual Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194222?u=25a704a6969d10bfdd7bcb98af90f1cd01d9b28d&v=4",
+    "bio": "An ordinary IT developer wannabe.\r\nDear colleagues! Please chat to my alias: mazgi.",
+    "pinnedItems": {
+      "edges": []
     }
   },
   {
@@ -15409,22 +15447,14 @@
     }
   },
   {
-    "login": "denkiwakame",
-    "name": "Mai Nishimura",
-    "url": "https://github.com/denkiwakame",
-    "location": "Tokyo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1871262?u=9528765b6604c42166aaed9159405e89af6f4163&v=4",
-    "bio": "Ph.D., Computer Vision, GPGPU(CUDA), Web Applications, Vim",
+    "login": "kurages",
+    "name": "kurages",
+    "url": "https://github.com/kurages",
+    "location": "Japan/Tokyo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73342826?u=48489ac24b5fa69f6eb08c806164c02241c24dba&v=4",
+    "bio": "社畜SE(仮)\r\n今日も炎上中",
     "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "arxiv2notion",
-            "description": "Chrome extension for clipping arXiv articles to Notion.",
-            "url": "https://github.com/denkiwakame/arxiv2notion"
-          }
-        }
-      ]
+      "edges": []
     }
   },
   {
@@ -15632,17 +15662,6 @@
     }
   },
   {
-    "login": "kurages",
-    "name": "kurages",
-    "url": "https://github.com/kurages",
-    "location": "Japan/Tokyo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73342826?u=48489ac24b5fa69f6eb08c806164c02241c24dba&v=4",
-    "bio": "社畜SE(仮)\r\n今日も炎上中",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "ranger-ross",
     "name": "Ross Sullivan",
     "url": "https://github.com/ranger-ross",
@@ -15781,25 +15800,6 @@
             "name": "view-background-image",
             "description": "Web Extension that adds \"View background image\" to the context menu",
             "url": "https://github.com/foooomio/view-background-image"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "Milly",
-    "name": "Milly",
-    "url": "https://github.com/Milly",
-    "location": "Tokyo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/22977?v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "denops.vim",
-            "description": "🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno",
-            "url": "https://github.com/vim-denops/denops.vim"
           }
         }
       ]
@@ -16001,6 +16001,25 @@
             "name": "logback-access-spring-boot-starter",
             "description": "Spring Boot Starter for Logback-access.",
             "url": "https://github.com/akkinoc/logback-access-spring-boot-starter"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "Milly",
+    "name": "Milly",
+    "url": "https://github.com/Milly",
+    "location": "Tokyo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22977?v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "denops.vim",
+            "description": "🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno",
+            "url": "https://github.com/vim-denops/denops.vim"
           }
         }
       ]
@@ -16510,6 +16529,25 @@
     }
   },
   {
+    "login": "eve0415",
+    "name": null,
+    "url": "https://github.com/eve0415",
+    "location": "Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40632436?u=f93151e1eee6c9a1e06dc08c092b56c99033c56b&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "cella",
+            "description": "A terminal-native devcontainer CLI built for the AI agent era. Drop-in devcontainer CLI replacement in Rust — port forwarding, SSH agent, and credential forwarding without VS Code.",
+            "url": "https://github.com/eve0415/cella"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "kurotu",
     "name": null,
     "url": "https://github.com/kurotu",
@@ -16697,25 +16735,6 @@
             "name": "corvusskk",
             "description": "▽▼ SKK-like Japanese Input Method Editor for Windows",
             "url": "https://github.com/nathancorvussolis/corvusskk"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "eve0415",
-    "name": null,
-    "url": "https://github.com/eve0415",
-    "location": "Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/40632436?u=f93151e1eee6c9a1e06dc08c092b56c99033c56b&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "cella",
-            "description": "A terminal-native devcontainer CLI built for the AI agent era. Drop-in devcontainer CLI replacement in Rust — port forwarding, SSH agent, and credential forwarding without VS Code.",
-            "url": "https://github.com/eve0415/cella"
           }
         }
       ]
@@ -17105,6 +17124,17 @@
     }
   },
   {
+    "login": "tomomano",
+    "name": "Tomoyuki Mano",
+    "url": "https://github.com/tomomano",
+    "location": "Okinawa, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31726174?u=5b575b3afecac420a8a2dfb65383214d91a5328a&v=4",
+    "bio": "Okinawa Institute of Science and Technology.",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
     "login": "MeilCli",
     "name": "meil",
     "url": "https://github.com/MeilCli",
@@ -17121,17 +17151,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "login": "tomomano",
-    "name": "Tomoyuki Mano",
-    "url": "https://github.com/tomomano",
-    "location": "Okinawa, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/31726174?u=5b575b3afecac420a8a2dfb65383214d91a5328a&v=4",
-    "bio": "Okinawa Institute of Science and Technology.",
-    "pinnedItems": {
-      "edges": []
     }
   },
   {
@@ -17227,6 +17246,25 @@
             "name": "pymcwasm",
             "description": "Sample a PyMC model in a browser: its log density compiled to WebAssembly, drawn by nuts-rs, with no Python sampler.",
             "url": "https://github.com/habakan/pymcwasm"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "noboruma",
+    "name": "Thomas Legris",
+    "url": "https://github.com/noboruma",
+    "location": "Tokyo, Japan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1673882?v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "go-msquic",
+            "description": "QUIC/HTTP3 library wrapper around msquic",
+            "url": "https://github.com/noboruma/go-msquic"
           }
         }
       ]
@@ -17355,36 +17393,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "login": "lzubiaur",
-    "name": "Laurent Zubiaur",
-    "url": "https://github.com/lzubiaur",
-    "location": "Tokyo, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/5903149?u=61cee7b647e8d88098f012824bae4c3a8552794e&v=4",
-    "bio": "Game Engine Programmer",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "ini.lua",
-            "description": "INI file parser for Lua",
-            "url": "https://github.com/lzubiaur/ini.lua"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "yushin-ito",
-    "name": "Yushin Ito",
-    "url": "https://github.com/yushin-ito",
-    "location": "Ibaraki, Japan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/75526539?u=7d6c7a7006a424b205f373b3f91730682d561e49&v=4",
-    "bio": "ITF. coins",
-    "pinnedItems": {
-      "edges": []
     }
   }
 ]
